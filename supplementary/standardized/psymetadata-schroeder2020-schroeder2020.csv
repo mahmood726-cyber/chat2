@@ -1,0 +1,76 @@
+"dataset","source","yi","vi","target_electrode_placement","return_electrode_placement","task","intensity","population","es_id","blinding","stimulation","weight"
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0496052175925733,0.105295535231742,"preSMA","other brain area","GNG","2 mA","healthy",1,"not reported","anodal",9.49707884383821
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.115780662603724,0.0572386082988068,"F4","xtc","GNG","1.5 mA","healthy",2,"not reported","anodal",17.4707252625645
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.515045720177203,0.0590376578133775,"F4","xtc","GNG","1.5 mA","healthy",3,"not reported","cathodal",16.9383413407265
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.234923010559284,0.111877622512364,"preSMA","xtc","SST","1 mA","healthy",4,"success","anodal",8.93833795841955
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0801004157959214,0.111200223286259,"preSMA","xtc","SST","1 mA","healthy",5,"success","cathodal",8.99278769814814
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.648261354491039,0.237249496814859,"F3","supraorbital","GNG","2 mA","other patients",6,"not reported","anodal",4.21497205863565
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.833932156293742,0.310551530046455,"other","supraorbital","GNG","2 mA","other patients",7,"not reported","anodal",3.22007751773244
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.11712588493994,0.14310211558791,"other","other brain area","GNG","2 mA","healthy",8,"not reported","anodal",6.98801688494733
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.807828446596912,0.098324849990127,"rIFG","l cheek","SST","1.5 mA","healthy",9,"no blinding","anodal",10.1703689362395
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.327971871565197,0.0921314266879316,"other","l cheek","SST","1.5 mA","healthy",10,"no blinding","anodal",10.8540596401183
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.108264575598005,0.129355718575206,"rIFG","xtc","GNG","2 mA","healthy",11,"not reported","anodal",7.73062073338964
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.669050050043888,0.150850499454709,"rIFG","l cheek","SST","1.5 mA","healthy",12,"not reported","anodal",6.62907980825237
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.679193682693058,0.151094715332324,"rIFG","l cheek","SST","1.5 mA","healthy",13,"not reported","anodal",6.61836516122061
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.833039993059949,0.076284374423022,"rIFG","l cheek","SST","1.5 mA","other patients",14,"success","anodal",13.1088444725871
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.00437357841217808,0.0666668260682344,"F3","other brain area","GNG","1 mA","ADHD",15,"success","anodal",14.999964134733
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.592810963342837,0.0949025549802212,"rIFG","other brain area","SST","1.5 mA","healthy",16,"success","anodal",10.537124108075
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.198573755602805,0.15460445262335,"rIFG","other brain area","SST","1.5 mA","healthy",17,"success","anodal",6.46811901618524
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.287337899575066,0.096437439127548,"rIFG","other brain area","GNG","1.5 mA","healthy",18,"success","anodal",10.369416785087
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.626574828115402,0.100128307540591,"rIFG","other brain area","GNG","1.5 mA","healthy",19,"success","cathodal",9.98718568766987
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.118632082040229,0.183653187217179,"rIFG","supraorbital","SST","1.5 mA","healthy",20,"no blinding","anodal",5.4450457144392
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.34711022579576,0.119418904541941,"other central","supraorbital","GNG","2 mA","healthy",21,"not reported","cathodal",8.37388354746456
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.664201162543725,0.0753675284314682,"F4","xtc","SST","1 mA","healthy",22,"success","anodal",13.2683135670198
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.823704626228888,0.103531799160151,"F4","xtc","SST","1 mA","healthy",23,"success","cathodal",9.65886817491814
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.640368573158766,0.135780729722947,"rIFG","other brain area","SST","1 mA","healthy",24,"no blinding","anodal",7.36481533160444
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.649523736622902,0.135971200286611,"rIFG","other brain area","SST","1 mA","healthy",25,"no blinding","anodal",7.35449858420104
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.22646693866759,0.129993880768432,"rIFG","other brain area","SST","1 mA","healthy",26,"no blinding","anodal",7.69266979406034
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.0270359024608652,0.129178456021858,"rIFG","other brain area","SST","1 mA","healthy",27,"no blinding","anodal",7.74122892311696
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.566698415065974,0.148591912386398,"preSMA","l cheek","SST","1.5 mA","healthy",28,"no blinding","anodal",6.72984137521296
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.402084722385194,0.145744145070992,"preSMA","l cheek","SST","1.5 mA","healthy",29,"no blinding","cathodal",6.86133909196075
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.132384842330539,0.143170102615694,"other central","l cheek","SST","1.5 mA","healthy",30,"no blinding","anodal",6.98469849312226
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.158526215638383,0.143305902875797,"other central","l cheek","SST","1.5 mA","healthy",31,"no blinding","cathodal",6.97807961802313
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.884260338210666,0.199589007857555,"rIFG","supraorbital","SST","1 mA","healthy",32,"not reported","anodal",5.0102959613572
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.103551121063281,0.182061882606215,"rIFG","other brain area","SST","1 mA","healthy",33,"not reported","cathodal",5.49263791895923
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.643263500224251,0.191222452970926,"rIFG","other brain area","SST","1 mA","healthy",34,"not reported","anodal",5.22951141177988
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.390494994305077,0.185283780467666,"rIFG","supraorbital","SST","1 mA","healthy",35,"not reported","cathodal",5.39712649146053
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.542278349053642,0.188501495633008,"other","supraorbital","SST","1 mA","healthy",36,"not reported","anodal",5.30499769586387
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.343154658593088,0.0507359694982134,"other central","supraorbital","SST","1 mA","healthy",37,"not reported","anodal",19.709882552559
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-1.0264025032568,0.0565843881168239,"preSMA","supraorbital","SST","1 mA","healthy",38,"not reported","anodal",17.6727191594862
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0462843134032874,0.0714476985506001,"other","xtc","GNG","1 mA","healthy",39,"not reported","anodal",13.9962520876972
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.0226844597622377,0.0714331659349527,"other","xtc","GNG","1 mA","healthy",40,"not reported","cathodal",13.99909953467
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0556041358475999,0.125048309686302,"rIFG","other brain area","GNG","1 mA","healthy",41,"not reported","anodal",7.99690937453382
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.059164296633862,0.12505469396869,"rIFG","other brain area","GNG","1 mA","healthy",42,"not reported","anodal",7.99650111694622
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.559386492624349,0.0865928463346934,"rIFG","xtc","SST","2 mA","healthy",43,"success","anodal",11.5482980676586
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.488464120457962,0.0858187208018205,"rIFG","xtc","SST","2 mA","healthy",44,"success","cathodal",11.6524691892027
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.319127721377987,0.112525590313221,"preSMA","l cheek","SST","1.5 mA","healthy",45,"not reported","anodal",8.88686739804206
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.369000936016229,0.0847516842789672,"F3","supraorbital","SST","1.5 mA","healthy",46,"success","anodal",11.7991755386054
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.112446307583842,0.133544069534821,"F3","other brain area","GNG","1 mA","ADHD",47,"not reported","anodal",7.48816479446328
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.594214287374098,0.208827265482988,"F3","other brain area","GNG","1 mA","ADHD",48,"not reported","anodal",4.78864672047083
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-1.04696578821991,0.227403434042573,"other frontal","other brain area","GNG","1 mA","ADHD",49,"not reported","cathodal",4.39747097140488
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.711956923702665,0.0886133610542517,"F3","other brain area","GNG","1.5 mA","healthy",50,"not reported","anodal",11.2849799184095
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.333933889359902,0.0844949150256566,"other frontal","other brain area","GNG","1.5 mA","healthy",51,"not reported","cathodal",11.8350317258305
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.358813336847344,0.0495655305530459,"F3","supraorbital","GNG","1 mA","healthy",52,"not reported","cathodal",20.175311125335
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.182642413937983,0.0393792071145544,"F4","xtc","GNG","1.5 mA","other patients",53,"not reported","anodal",25.394112103146
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.147444386058797,0.039322254151864,"F4","xtc","GNG","1.5 mA","other patients",54,"not reported","cathodal",25.4308920373172
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.367170704994156,0.135580238776765,"other frontal","other brain area","SST","1.5 mA","healthy",55,"success","anodal",7.37570614288794
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.100466788176242,0.133501559592107,"other frontal","other brain area","SST","1.5 mA","healthy",56,"success","cathodal",7.4905491969932
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.199889471243635,0.0436954119604025,"F3","supraorbital","GNG","1 mA","healthy",57,"not reported","anodal",22.8856979516801
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.191667335602353,0.200918409188423,"other central","supraorbital","GNG","1.5 mA","healthy",58,"success","anodal",4.97714472277248
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.0969916857643341,0.125146990423553,"rIFG","supraorbital","GNG","1.5 mA","healthy",59,"success","anodal",7.9906036622659
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.173660227456067,0.0233560665085148,"F4","other brain area","GNG","2 mA","healthy",60,"success","anodal",42.8154286868225
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.150643298802487,0.100283667543426,"rIFG","other brain area","GNG","1.5 mA","healthy",61,"no blinding","anodal",9.9717134853187
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.0477595732641041,0.0571591498345598,"F3","supraorbital","GNG","1 mA","other patients",62,"success","anodal",17.4950117854163
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0530602434006473,0.100035192367872,"F3","supraorbital","GNG","1.5 mA","ADHD",63,"not reported","anodal",9.99648200127988
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.730270496379012,0.106666187473521,"F3","supraorbital","GNG","1.5 mA","ADHD",64,"not reported","cathodal",9.37504211677431
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.00498469494076079,0.0785716544549163,"F4","supraorbital","SST","1.5 mA","healthy",65,"not reported","anodal",12.7272361379865
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.0856213064344079,0.0786380740997516,"F4","supraorbital","SST","1.5 mA","healthy",66,"not reported","cathodal",12.7164864023947
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.600814563554309,0.0818530480239645,"rIFG","supraorbital","SST","1.5 mA","healthy",67,"not reported","anodal",12.2170160322829
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.430763987605099,0.0802583159624963,"rIFG","supraorbital","SST","1.5 mA","healthy",68,"not reported","cathodal",12.4597680378353
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.0262640049616471,0.0833405187287148,"rIFG","supraorbital","SST","1.5 mA","healthy",69,"not reported","anodal",11.9989653922738
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.371755290377379,0.0866151615354188,"rIFG","supraorbital","SST","1.5 mA","healthy",70,"not reported","cathodal",11.5453228080753
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.357317915821775,0.0781507316631463,"other","xtc","GNG","2 mA","healthy",71,"success","cathodal",12.795785512416
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-1.12045570612036,0.289231905918052,"preSMA","l cheek","SST","2 mA","healthy",72,"not reported","anodal",3.45743322067424
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.18670567358008,0.111595264007597,"other frontal","l cheek","SST","1.5 mA","healthy",73,"success","anodal",8.96095375456007
+"psymetadata::schroeder2020::schroeder2020","psymetadata",0.261387943012112,0.112060050788224,"other frontal","l cheek","SST","1.5 mA","healthy",74,"success","cathodal",8.92378678187329
+"psymetadata::schroeder2020::schroeder2020","psymetadata",-0.806753031692022,0.144180840902404,"rIFG","supraorbital","SST","1.5 mA","healthy",75,"success","anodal",6.935734274687

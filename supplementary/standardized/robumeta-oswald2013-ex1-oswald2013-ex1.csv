@@ -1,0 +1,33 @@
+"dataset","source","yi","vi","effect_size","sample_id","var_eff_size","target","iat_id","crit_domain","iat_focus","crit_cat","weight"
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.549306144334055,0.0769230769230769,0.549306144334055,1,0.0769230769230769,"White/Black",1,"Race","Attitude","Brain Activity",13
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.887183863258093,0.0769230769230769,0.887183863258093,2,0.0769230769230769,"White/Black",1,"Race","Attitude","Brain Activity",13
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",1.07143168405867,0.1,1.07143168405867,2,0.1,"White/Black",1,"Race","Attitude","Brain Activity",10
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.497311287572031,0.0222222222222222,0.497311287572031,1,0.0222222222222222,"White/Black",1,"Race","Stereotype","Response Time",45
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.100335347731076,0.0222222222222222,0.100335347731076,1,0.0222222222222222,"White/Black",4,"Race","Attitude","Response Time",45
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.140925576070494,0.0588235294117647,0.140925576070494,1,0.0588235294117647,"White/Black",1,"Race","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.2768638226551,0.0588235294117647,0.2768638226551,1,0.0588235294117647,"White/Black",1,"Race","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.549306144334055,0.0588235294117647,0.549306144334055,1,0.0588235294117647,"White/Black",1,"Race","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.576339754969193,0.0588235294117647,0.576339754969193,1,0.0588235294117647,"White/Black",1,"Race","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.354092528962243,0.0588235294117647,0.354092528962243,1,0.0588235294117647,"White/Black",1,"Race","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.110446915790097,0.0588235294117647,0.110446915790097,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.287682072451781,0.0588235294117647,0.287682072451781,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",-0.0902441878561468,0.0588235294117647,-0.0902441878561468,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.00700011433669485,0.0588235294117647,0.00700011433669485,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",-0.192337169219545,0.0588235294117647,-0.192337169219545,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.632833186665638,0.0588235294117647,0.632833186665638,1,0.0588235294117647,"White-Asian Comparison",2,"Ethnicity","Attitude","Brain Activity",17
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",-0.928727364246725,0.0625,-0.928727364246725,1,0.0625,"White/Black",1,"Race","Attitude","Brain Activity",16
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",-1.02032775832234,0.0625,-1.02032775832234,1,0.0625,"White/Black",1,"Race","Attitude","Brain Activity",16
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.656455907592933,0.111111111111111,0.656455907592933,1,0.111111111111111,"White/Black",1,"Race","Attitude","Brain Activity",9
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.576339754969193,0.111111111111111,0.576339754969193,1,0.111111111111111,"White/Black",1,"Race","Attitude","Brain Activity",9
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.58266540231404,0.0555555555555556,0.58266540231404,2,0.0555555555555556,"Black",1,"Race","Attitude","Response Time",18
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.0574631646558597,0.0555555555555556,0.0574631646558597,1,0.0555555555555556,"White",1,"Race","Attitude","Response Time",18
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.223656109021832,0.0833333333333333,0.223656109021832,1,0.0833333333333333,"White",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.171666663500579,0.0833333333333333,0.171666663500579,1,0.0833333333333333,"White",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",-0.130739850028878,0.0833333333333333,-0.130739850028878,2,0.0833333333333333,"White",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.244774112659353,0.0833333333333333,0.244774112659353,2,0.0833333333333333,"White",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.590145159841189,0.0833333333333333,0.590145159841189,1,0.0833333333333333,"Black",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.472230804420426,0.0833333333333333,0.472230804420426,1,0.0833333333333333,"Black",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.867300527694053,0.0833333333333333,0.867300527694053,2,0.0833333333333333,"Black",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.549306144334055,0.0833333333333333,0.549306144334055,2,0.0833333333333333,"Black",1,"Race","Attitude","Brain Activity",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.810743125475137,0.0833333333333333,0.810743125475137,1,0.0833333333333333,"White/Black",1,"Race","Attitude","Response Time",12
+"robumeta::oswald2013.ex1::oswald2013.ex1","robumeta",0.0400213538367682,0.00694444444444444,0.0400213538367682,1,0.00694444444444444,"White/Black",1,"Race","Attitude","Response Time",144

@@ -1,0 +1,1269 @@
+"dataset","source","yi","vi","n2","n_total","n1","domain","miyake","es_id","weight"
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.870862315,2.285219304,48,96,48,"updating","no",1,0.437594763115129
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.25783372,0.071895721,29,57,28,"shifting","no",2,13.9090336127236
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.534971769,0.980392349,29,57,28,"processing speed","no",3,1.01999980010044
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.396355112,0.113988532,29,57,28,"updating","no",4,8.77281233870088
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.725806611,34501.95655,18,38,20,"shifting","no",5,0.0000289838635252701
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.2530391,1.939528395,16,26,10,"shifting","no",6,0.515589254881726
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.000934902,82.37022144,16,26,10,"updating","no",7,0.0121403097201629
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.671038217,412.2254792,16,26,10,"processing speed","no",8,0.0024258568440279
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.428281702,0.162786155,46,297,251,"updating","no",9,6.14302856406922
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.78242828,0.053866526,46,297,251,"shifting","yes",10,18.5644049144732
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.765631129,2.447009551,46,297,251,"updating","no",11,0.408662074731722
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.957228274,272.1793808,25,41,16,"inhibition","yes",12,0.00367404759706912
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.391032136,164.3656227,16,39,23,"inhibition","yes",13,0.00608399727128585
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.409400809,163.5397698,17,42,25,"inhibition","yes",14,0.00611472060418664
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.998403424,0.915732196,29,59,30,"updating","no",15,1.09202232308538
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.783426363,1.013920143,29,59,30,"updating","no",16,0.986270967101203
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.077654893,1.261782095,16,32,16,"inhibition","yes",17,0.792529870222956
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.787737395,28.99439155,16,33,17,"inhibition","no",18,0.0344894286978062
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.385491555,0.852511848,34,59,25,"processing speed","no",19,1.17300422550843
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.118179535,0.789291587,34,59,25,"shifting","no",20,1.26695889892971
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.225993148,0.072516108,34,59,25,"shifting","yes",21,13.7900395867908
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.146547114,0.855798654,30,67,37,"updating","no",22,1.16849915026859
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.143036016,0.877222357,31,65,34,"updating","no",23,1.13996182612113
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.330703161,1.371516899,16,35,19,"inhibition","no",24,0.729119707332166
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.29416619,0.1349244,48,96,48,"processing speed","no",25,7.41155787982011
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.507382786,0.289504453,48,96,48,"processing speed","no",26,3.4541783023973
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.618208399,0.13830712,48,96,48,"processing speed","no",27,7.23028575824585
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.542512063,2.356567277,10,55,45,"shifting","no",28,0.424346043399634
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.020844649,932.0980384,20,40,20,"shifting","no",29,0.00107284851893537
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.03071587,0.953572946,15,78,63,"processing speed","no",30,1.04868746978902
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.43917151,0.151161871,15,78,63,"updating","no",31,6.61542486464725
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.094358079,1.011909095,15,78,63,"updating","no",32,0.988231062395975
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.344183829,0.073395874,50,100,50,"shifting","no",33,13.6247440830257
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.259671549,0.779154637,50,100,50,"processing speed","no",34,1.28344227514364
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.573859351,0.668795391,99,207,108,"processing speed","no",35,1.49522561527342
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.75699027,0.695528123,99,207,108,"processing speed","no",36,1.43775638530148
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.479785434,39.31093548,99,207,108,"inhibition","no",37,0.0254382142726867
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.786653664,0.285402245,16,34,18,"processing speed","no",38,3.50382667802771
+"psymetadata::maldonado2020::maldonado2020","psymetadata",6.715826801,3.633146279,16,34,18,"shifting","no",39,0.275243528117795
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.043668283,0.097481399,22,40,18,"shifting","no",40,10.2583673424712
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.920929149,1.092020314,22,40,18,"processing speed","no",41,0.915733880752698
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.662601601,0.014752061,110,285,175,"updating","yes",42,67.7871383530749
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.957844618,0.01476384,110,285,175,"updating","yes",43,67.7330558987364
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.362671811,0.014747872,110,285,175,"inhibition","yes",44,67.8063926782115
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.242003645,0.127849677,184,406,222,"processing speed","no",45,7.82168577555343
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.210623923,1.285016429,184,406,222,"shifting","no",46,0.778200167275838
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.716082206,0.171538791,14,29,15,"updating","no",47,5.82958521609261
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.004694975,0.758729818,14,29,15,"updating","no",48,1.31799222368245
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.004694975,0.758729818,14,29,15,"processing speed","no",49,1.31799222368245
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.449767478,0.368769269,14,29,15,"updating","no",50,2.71172270593947
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.879716349,1.128424902,39,67,28,"processing speed","no",51,0.886191006798608
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.004461574,15.58125453,39,67,28,"processing speed","no",52,0.0641796845096529
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.35669904,11.00829922,39,67,28,"processing speed","no",53,0.0908405540233853
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.149889382,0.565756869,39,67,28,"inhibition","yes",54,1.76754371850145
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.189129444,65.66257469,39,67,28,"inhibition","yes",55,0.0152293754048041
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.769779352,18.76751765,39,67,28,"inhibition","no",56,0.0532835518606799
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.317970845,0.423812147,39,67,28,"updating","no",57,2.35953595733064
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.373553657,0.528452726,39,67,28,"updating","no",58,1.89231685409075
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.254193103,0.065773737,39,67,28,"inhibition","yes",59,15.2036366734036
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.263487998,368.6228787,39,67,28,"shifting","no",60,0.00271279960572887
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.577298056,46.24529895,39,67,28,"shifting","no",61,0.0216238195601501
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.367397084,0.409563358,39,67,28,"shifting","yes",62,2.44162467287906
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.334017593,0.962660596,36,72,36,"processing speed","no",63,1.03878771412806
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.478818429,1.332379546,36,72,36,"updating","no",64,0.750536889433756
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.036524554,0.503039985,36,72,36,"updating","no",65,1.98791354528209
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.331797891,0.056548042,36,72,36,"shifting","yes",66,17.6840782568564
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.017753774,0.89835401,36,72,36,"updating","no",67,1.11314692077792
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.176651306,0.067687209,36,72,36,"updating","no",68,14.7738400618646
+"psymetadata::maldonado2020::maldonado2020","psymetadata",18.97167556,0.106250283,18,36,18,"shifting","yes",69,9.41173963743701
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.655280576,0.40954614,14,28,14,"shifting","yes",70,2.44172732283596
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.333597708,0.134745768,14,28,14,"inhibition","yes",71,7.42138335654445
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.767655239,0.802368777,14,28,14,"updating","no",72,1.24630971277189
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.402886502,0.501066256,28,53,25,"shifting","yes",73,1.99574405186048
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.389209828,0.073570797,28,53,25,"inhibition","yes",74,13.5923496927728
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.584754038,0.543020821,28,53,25,"updating","no",75,1.84155001305189
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.596989499,27.91640162,29,55,26,"inhibition","no",76,0.035821235616684
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.162179198,2.363047875,17,34,17,"processing speed","no",77,0.42318228529331
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.729803256,0.17559201,17,34,17,"updating","no",78,5.69501994993964
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.070426671,2.198825535,17,34,17,"updating","no",79,0.454788242214951
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.776623906,0.510512214,17,34,17,"updating","no",80,1.95881699316209
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.024982004,2.262049173,17,34,17,"shifting","no",81,0.442077038791234
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.326903449,0.784300464,17,34,17,"inhibition","yes",82,1.27502155857452
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.115639973,0.118149725,20,40,20,"updating","no",83,8.46383688155009
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.028733591,0.118421712,20,40,20,"updating","no",84,8.44439742603958
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.774877489,0.041660917,54,100,46,"shifting","yes",85,24.0033122650661
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.388980544,0.16278069,54,100,46,"updating","no",86,6.14323480260466
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.752012739,0.185207542,54,100,46,"updating","no",87,5.39934815397528
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.090398611,0.054831462,54,100,46,"processing speed","no",88,18.2377044770391
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.573683322,0.068051242,54,100,46,"processing speed","no",89,14.6948089499968
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.412821487,0.104682588,54,100,46,"processing speed","no",90,9.5526870237484
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.1921459,0.174179597,20,40,20,"processing speed","no",91,5.74120056093596
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.430174245,11.15463774,16,32,16,"shifting","no",92,0.0896488100562914
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.338338214,0.889045265,16,32,16,"updating","no",93,1.12480212129582
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.702256083,0.3121606,16,32,16,"updating","no",94,3.20347923472725
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.787114846,1.850544453,16,32,16,"processing speed","no",95,0.540381506847272
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.358106223,112.8473559,16,32,16,"inhibition","no",96,0.00886152796425423
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.29797084,1.095989262,30,60,30,"processing speed","no",97,0.912417698486539
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.110352275,3.237859678,30,60,30,"shifting","no",98,0.308845996877077
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.509227473,0.099864692,30,60,30,"updating","no",99,10.013549133061
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.210868141,0.093404564,30,60,30,"updating","no",100,10.7061149602925
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.366927359,0.113367712,73,128,55,"shifting","yes",101,8.82085368363084
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.51116704,0.130779048,73,128,55,"updating","no",102,7.64648477942736
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.527596941,0.094248032,73,128,55,"updating","no",103,10.6103011254389
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.813298847,39.80401785,21,45,24,"processing speed","no",104,0.0251230919393229
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.014892115,155.3952765,21,45,24,"processing speed","no",105,0.00643520203781741
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.716094784,220.8024302,21,45,24,"inhibition","no",106,0.00452893566023804
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.082390464,577.9551751,21,45,24,"inhibition","no",107,0.00173023798917793
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.631156763,456.8933596,21,45,24,"inhibition","yes",108,0.00218869453667586
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.549921691,64.15784016,21,45,24,"inhibition","yes",109,0.0155865596083994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.44322815,41.33298057,20,40,20,"inhibition","no",110,0.0241937548710391
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.500469194,0.155576457,12,24,12,"updating","no",111,6.42770776043576
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.845277072,0.155798831,12,24,12,"updating","no",112,6.41853339708306
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.854398389,44.2253091,19,41,22,"inhibition","no",113,0.0226114869596242
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.23620524,3.392319331,40,80,40,"inhibition","no",114,0.294783569123847
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.722778704,0.355066118,18,36,18,"updating","no",115,2.81637686420984
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.469611704,2.504650206,18,36,18,"processing speed","no",116,0.399257348433109
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.312889529,26.35569218,18,36,18,"shifting","no",117,0.0379424677284268
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.927601447,0.111539095,18,36,18,"inhibition","yes",118,8.96546632371367
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.126070718,2.41455583,18,36,18,"updating","no",119,0.414154846856451
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.104615315,2.233769547,18,36,18,"updating","yes",120,0.447673754592555
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.991114758,0.686363786,18,36,18,"updating","no",121,1.45695332474898
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.146681514,749.7103354,22,48,26,"processing speed","no",122,0.00133384849158637
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.231037463,0.087929992,24,48,24,"updating","no",123,11.3726838505797
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.300385534,0.090348697,24,48,24,"updating","no",124,11.0682282446198
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.573114564,0.655317791,24,48,24,"updating","no",125,1.5259771880663
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.662561061,201.6183761,24,48,24,"inhibition","no",126,0.00495986536219304
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.592095265,234.2236698,24,48,24,"inhibition","no",127,0.00426942332879459
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.205324004,0.193949879,24,48,24,"inhibition","no",128,5.15597124966497
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.130737968,1.98923505,14,28,14,"inhibition","yes",129,0.502705801408436
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.530621516,0.110895108,23,44,21,"updating","no",130,9.0175303314552
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.081492185,0.116483665,23,44,21,"updating","no",131,8.5848947146366
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.805575239,0.135475662,23,44,21,"updating","no",132,7.38139961995535
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.816749059,0.139758451,23,44,21,"updating","no",133,7.15520237126841
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.078607274,1.442673042,23,44,21,"shifting","yes",134,0.693157750153621
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.843201234,0.10184021,23,44,21,"updating","no",135,9.81930418250316
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.178787572,0.705517851,22,42,20,"updating","no",136,1.41739857975613
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.09677536,0.191753725,22,42,20,"inhibition","no",137,5.21502255040939
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.868679859,1.10200147,22,42,20,"updating","no",138,0.907439805865232
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.873047472,3.56477399,20,40,20,"inhibition","yes",139,0.28052269310908
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.499546884,287.2748595,8,16,8,"inhibition","no",140,0.00348098682126411
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.309599585,86.53385687,24,44,20,"inhibition","no",141,0.011556170453633
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.045564957,32.08436647,27,59,32,"inhibition","no",142,0.0311678275129738
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.108020582,40.91396419,27,59,32,"inhibition","no",143,0.0244415328555334
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.207958481,2981.080762,20,39,19,"inhibition","yes",144,0.00033544881197016
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.530310297,0.180335245,42,74,32,"inhibition","yes",145,5.54522772295565
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.011488414,0.135919971,42,74,32,"shifting","yes",146,7.35727055150711
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.646028752,0.095665583,42,74,32,"inhibition","no",147,10.4530800800116
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.427821174,433.691662,16,32,16,"inhibition","no",148,0.00230578562517995
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.156684126,0.08181221,29,57,28,"updating","no",149,12.2231143737591
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.226937586,0.082793534,29,57,28,"updating","no",150,12.0782378971768
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.193429613,0.077161589,29,57,28,"updating","no",151,12.9598160556284
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.98630137,0.075198942,29,57,28,"updating","no",152,13.2980594328043
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.462509121,0.39464112,29,57,28,"updating","no",153,2.53394780554039
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.960695832,1.237171466,29,57,28,"updating","no",154,0.808295395975452
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.821097611,1.246942036,29,57,28,"processing speed","no",155,0.801961896487063
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.179327522,0.078612242,29,57,28,"updating","no",156,12.7206650587576
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.547584683,0.816866284,29,57,28,"shifting","yes",157,1.22419056776739
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.911619179,5.726257796,29,57,28,"shifting","no",158,0.174634121554663
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.719707217,2.693967744,29,57,28,"inhibition","yes",159,0.37119969317643
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.337098305,0.185086278,16,31,15,"updating","no",160,5.40288567475542
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.497971471,0.181032177,16,31,15,"updating","no",161,5.52387987910017
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.581439424,1.779648287,16,31,15,"processing speed","no",162,0.561908781248977
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.796452384,0.146300993,16,31,15,"shifting","no",163,6.83522359961015
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.645353697,0.411165681,24,48,24,"processing speed","no",164,2.43210960012005
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.202381725,0.200625504,24,48,24,"shifting","yes",165,4.98441115442631
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.381859058,0.176701086,29,57,28,"updating","no",166,5.6592747822727
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.111873927,0.463301776,29,57,28,"updating","no",167,2.15842038991018
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.395227948,4.557793227,24,39,15,"shifting","no",168,0.219404424508791
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.873534258,1.842309294,24,39,15,"updating","no",169,0.542797022876008
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.042583675,0.166515234,24,39,15,"updating","no",170,6.00545653378477
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.350903958,4.817699681,16,31,15,"shifting","no",171,0.20756794034792
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.716579691,2.022664862,16,31,15,"updating","no",172,0.494397276972125
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.364845044,0.207345586,16,31,15,"updating","no",173,4.82286611107313
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.986730886,0.12860961,44,88,44,"shifting","yes",174,7.77546872274941
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.979972743,1.239022524,44,88,44,"shifting","yes",175,0.807087829825441
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.068423659,0.082069473,44,88,44,"updating","no",176,12.1847986034954
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.043020083,0.738467545,44,88,44,"inhibition","yes",177,1.35415565216207
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.118866288,0.114436176,20,40,20,"updating","no",178,8.73849542123812
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.35332077,0.119168025,20,40,20,"updating","no",179,8.39151274009954
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.696323942,32.99864444,20,40,20,"shifting","no",180,0.0303042751291877
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.313230642,13.95857299,52,129,77,"inhibition","yes",181,0.0716405610169754
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.257886186,2.56667867,16,27,11,"processing speed","no",182,0.389608567557855
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.053241101,8.607405399,16,27,11,"shifting","no",183,0.116179028829777
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.144356992,1.455564838,16,27,11,"updating","no",184,0.687018519473194
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.604050213,0.218928903,16,27,11,"updating","no",185,4.56769291901125
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.359942048,0.286255258,16,27,11,"updating","no",186,3.49338561319981
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.218162287,0.998739399,16,27,11,"updating","no",187,1.00126219212065
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.959127281,1.977959642,16,27,11,"updating","no",188,0.505571488298344
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.849095562,0.864122387,16,27,11,"updating","no",189,1.15724348199302
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.717559236,0.170010902,16,27,11,"updating","no",190,5.88197573353267
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.587998099,0.196936064,48,96,48,"processing speed","no",191,5.0777901197416
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.924272301,0.067014758,48,96,48,"updating","no",192,14.922086266431
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.983676565,0.32412608,48,96,48,"shifting","yes",193,3.08521918384352
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.029243697,0.153060262,22,32,10,"updating","no",194,6.5333744169339
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.435268111,0.147863771,22,32,10,"updating","no",195,6.76298185307339
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.715844219,3.149950488,22,32,10,"processing speed","no",196,0.317465307410254
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.294079342,2.473664386,22,32,10,"processing speed","no",197,0.404258558945838
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.256783024,12.31975161,22,32,10,"inhibition","yes",198,0.0811704676893238
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.36937164,17.32107664,22,32,10,"shifting","no",199,0.0577331317668022
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.009194495,0.555417087,22,32,10,"updating","no",200,1.80044874996797
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.26093808,0.254763001,22,32,10,"updating","no",201,3.9252167546888
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.005720459,5.39901313,15,34,19,"shifting","no",202,0.185219034649764
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.215272765,259.6674591,15,34,19,"inhibition","no",203,0.00385107939002435
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.289362683,0.13972493,14,30,16,"updating","no",204,7.15691895497818
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.82675321,0.148639466,14,30,16,"updating","no",205,6.72768832471451
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.890917174,64.35860497,14,30,16,"inhibition","no",206,0.0155379377857264
+"psymetadata::maldonado2020::maldonado2020","psymetadata",10.58976654,70.04343787,20,40,20,"shifting","no",207,0.0142768549118904
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.34385321,0.111676681,20,40,20,"updating","no",208,8.95442084278991
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.390107296,0.10819429,20,40,20,"updating","no",209,9.24263193556702
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.086371018,0.055500736,67,134,67,"updating","yes",210,18.0177790795423
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.894196658,3.162557237,21,41,20,"processing speed","no",211,0.316199810805195
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.39126053,7.391440662,21,41,20,"shifting","no",212,0.135291622530514
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.804305179,0.10956323,20,40,20,"updating","no",213,9.12714968333811
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.62886505,32.73355052,18,37,19,"inhibition","no",214,0.0305496954688434
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.104729487,117.1344283,20,40,20,"shifting","yes",215,0.00853719964756084
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.351063429,0.019084171,227,323,96,"shifting","yes",216,52.3994466408837
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.2053589,0.021792822,227,323,96,"updating","no",217,45.8866685553619
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.337604341,0.20497456,227,323,96,"updating","no",218,4.87865420957606
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.723072552,0.031228032,227,323,96,"updating","no",219,32.0225110567326
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.599651797,115.0374462,28,47,19,"inhibition","no",220,0.00869282162489452
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.557851164,399.1572717,16,32,16,"inhibition","yes",221,0.00250527817203737
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.032608949,1630.535775,74,146,72,"updating","no",222,0.000613295344593099
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.546571244,0.149371528,74,146,72,"updating","no",223,6.69471627819192
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.470873261,0.688037965,32,92,60,"updating","no",224,1.45340817057966
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.3896083,0.200207513,32,92,60,"updating","no",225,4.99481755212653
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.69138531,0.194771221,15,45,30,"updating","no",226,5.13422873700627
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.386207162,0.508028568,15,45,30,"updating","no",227,1.96839324201154
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.00155656,0.096754196,15,45,30,"inhibition","yes",228,10.3354690684423
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.118447678,0.096589036,15,45,30,"shifting","no",229,10.3531419445992
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.365512959,0.110848554,15,45,30,"shifting","no",230,9.02131749954988
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.70895915,1003.43299,20,40,20,"shifting","no",231,0.000996578755099531
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.580945868,0.465905914,65,130,65,"processing speed","no",232,2.14635609884102
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.299992972,2.856150393,65,130,65,"shifting","no",233,0.35012161910341
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.476496375,4.482070001,65,130,65,"inhibition","yes",234,0.22311119633939
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.107434915,3.770708745,65,130,65,"updating","no",235,0.265202132444202
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.141246088,0.125062691,65,130,65,"updating","no",236,7.99598978723399
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.527352397,0.039364301,53,101,48,"updating","no",237,25.4037281139579
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.874352016,0.041070226,53,101,48,"shifting","yes",238,24.3485390121788
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.259350776,0.206214275,53,101,48,"updating","no",239,4.84932481032169
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.11703074,0.635116091,20,40,20,"updating","no",240,1.57451529597602
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.03406903,1.68625784,20,40,20,"updating","no",241,0.593029118251572
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.278712984,877.3535634,56,112,56,"shifting","no",242,0.00113979134720182
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.491385398,10.39661368,56,112,56,"inhibition","yes",243,0.0961851647833855
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.637281746,1.169850222,56,112,56,"updating","no",244,0.854810283568079
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.030612233,1.687347062,56,112,56,"updating","no",245,0.592646304083232
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.782699055,1.340916899,27,64,37,"processing speed","no",246,0.745758369326062
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.078626407,0.070219323,27,64,37,"updating","no",247,14.2410942925212
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.45735557,0.076634051,27,64,37,"updating","no",248,13.0490296017367
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.062594304,27,64,37,"processing speed","no",249,15.975894547849
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.976275161,0.071791366,27,64,37,"shifting","no",250,13.9292516038767
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.346203019,35.85166538,63,123,60,"inhibition","no",251,0.0278927070583966
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.23663115,0.096228968,20,40,20,"shifting","no",252,10.3918811641002
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.719834791,967.3362046,20,40,20,"processing speed","no",253,0.0010337667454652
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.708903082,6.522316839,155,286,131,"shifting","no",254,0.153319751966131
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.091892616,0.04475732,155,286,131,"shifting","no",255,22.3427139962804
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.737475322,0.055327968,55,104,49,"updating","no",256,18.0740416853914
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.581692238,0.059233216,55,104,49,"updating","no",257,16.8824194857156
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.855716268,0.070698841,55,104,49,"updating","no",258,14.14450344384
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.483504039,0.087910541,55,104,49,"updating","no",259,11.3752001594439
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.890492807,0.735507299,55,104,49,"shifting","yes",260,1.35960581405461
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.536728595,0.638933428,55,104,49,"updating","no",261,1.56510828229823
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.307979448,0.075269174,55,104,49,"processing speed","no",262,13.2856513079312
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.678880869,0.764882633,55,104,49,"processing speed","no",263,1.30739012347271
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.202772079,0.137124049,55,104,49,"processing speed","no",264,7.29266680274297
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.89733232,0.204433434,55,104,49,"processing speed","no",265,4.89156778533594
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.117866471,75.81604978,22,46,24,"inhibition","no",266,0.0131898193443441
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.131803322,21.08433726,22,46,24,"processing speed","no",267,0.0474285716296686
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.005341179,127.7757389,22,46,24,"inhibition","no",268,0.00782621183496048
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.550723615,223.7016471,15,37,22,"inhibition","no",269,0.00447023977232039
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.739321261,1.001517675,20,40,20,"updating","no",270,0.998484624846985
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.835112667,0.416297644,20,40,20,"updating","no",271,2.40212745474966
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.089840875,2.154152511,20,40,20,"processing speed","no",272,0.464219684954331
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.466540702,8.71176218,20,40,20,"shifting","no",273,0.114787339155762
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.896237849,0.130229053,18,52,34,"updating","no",274,7.67877809877033
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.022023584,0.129063096,18,52,34,"updating","no",275,7.74814823905975
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.130872077,3.122961735,18,52,34,"shifting","no",276,0.320208854560301
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.020669564,2.210716706,18,52,34,"processing speed","no",277,0.452341992660547
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.74606315,0.051835816,50,100,50,"updating","no",278,19.2916804859405
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.251811562,5.528331093,50,100,50,"shifting","no",279,0.180886416384541
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.434587088,1.526027653,50,100,50,"shifting","yes",280,0.655296119984531
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.664932715,1.647273223,50,100,50,"updating","no",281,0.607063834971353
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.164456595,0.277859591,50,100,50,"updating","no",282,3.59894001283548
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.866809523,0.726882346,50,100,50,"inhibition","yes",283,1.37573846098059
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.990273039,0.086289468,50,100,50,"inhibition","no",284,11.588899817994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.665021768,0.135386772,46,96,50,"updating","no",285,7.38624597682261
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.350941581,0.214423512,46,96,50,"updating","no",286,4.66366766719127
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.270856534,0.041630843,46,96,50,"processing speed","no",287,24.0206521880904
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.871767839,0.080734451,24,48,24,"updating","no",288,12.3862859982785
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.881563418,0.080829043,24,48,24,"updating","no",289,12.3717906693514
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.552254098,0.080788605,24,48,24,"updating","no",290,12.3779832564258
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.631928455,0.080767018,24,48,24,"updating","no",291,12.3812915811749
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.062230216,0.05352676,114,176,62,"processing speed","no",292,18.682244170953
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.404895387,0.055549956,83,139,56,"processing speed","no",293,18.0018144388809
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.479140339,25.69271837,114,176,62,"inhibition","no",294,0.0389215335488846
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.516602009,0.400273484,12,24,12,"updating","no",295,2.49829189284994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.83191678,3.80366627,12,24,12,"processing speed","no",296,0.262904242647976
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.74940043,297.2627824,12,24,12,"inhibition","no",297,0.00336402691223683
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.768340539,110.439064,20,41,21,"inhibition","no",298,0.0090547670704634
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.549648977,0.221176477,276,328,52,"updating","no",299,4.52127646467576
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.126767598,0.03079095,276,328,52,"updating","no",300,32.4770752445118
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.039268355,0.031488944,276,328,52,"updating","no",301,31.7571780114316
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.669986033,1.168741651,276,328,52,"processing speed","no",302,0.855621085416421
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.036922378,2.192373028,276,328,52,"shifting","no",303,0.456126757275542
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.766199528,10.73008484,28,56,28,"inhibition","no",304,0.0931959080390645
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.218752122,34.14921722,28,56,28,"updating","no",305,0.0292832480919749
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.003444741,42.583832,48,96,48,"inhibition","no",306,0.0234830909533928
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.094134215,0.096144016,20,40,20,"inhibition","yes",307,10.4010633381489
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.18826843,0.096144016,20,40,20,"inhibition","yes",308,10.4010633381489
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.37686515,0.148048455,20,40,20,"updating","no",309,6.75454532774422
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.68268756,0.158034512,20,40,20,"updating","no",310,6.32773175520041
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.196783368,2.481927172,20,40,20,"shifting","yes",311,0.402912708834311
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.881547441,4.137407879,20,40,20,"shifting","yes",312,0.241697224263443
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.812992336,101.9682087,46,114,68,"inhibition","no",313,0.00980697820182458
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.437197004,0.03982369,46,114,68,"updating","no",314,25.1106816068526
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.842782373,301.5799798,50,102,52,"processing speed","no",315,0.00331586997473497
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.787085834,0.068152106,36,76,40,"updating","no",316,14.6730608735701
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.936529262,0.040811765,85,171,86,"updating","no",317,24.5027383647828
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.472340569,0.038481159,85,171,86,"updating","no",318,25.9867432787043
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.51444799,0.299729489,85,171,86,"inhibition","yes",319,3.33634172378681
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.465224545,0.468181723,56,119,63,"inhibition","yes",320,2.13592276433226
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.623922274,0.177298679,79,136,57,"processing speed","no",321,5.64019994756983
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.944156947,0.114077315,79,136,57,"processing speed","no",322,8.7659847183465
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.989620481,27872.96575,79,136,57,"processing speed","no",323,0.0000358770576826759
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.721148864,0.050551672,79,136,57,"updating","no",324,19.7817393656139
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.447458766,3.983376682,26,52,26,"processing speed","no",325,0.251043293123339
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.870065337,72.52604194,31,55,24,"inhibition","yes",326,0.0137881507559352
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.874704901,65.21825859,31,55,24,"inhibition","yes",327,0.0153331294275516
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.787655922,37.54637738,31,55,24,"processing speed","no",328,0.0266337279327692
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.25281034,1.166399888,20,40,20,"processing speed","no",329,0.857338902625135
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.358649382,0.145060803,20,40,20,"updating","no",330,6.89366099814021
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.094206537,0.149275097,20,40,20,"updating","no",331,6.69904103294604
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.212540685,0.1229194,20,40,20,"updating","no",332,8.13541231083133
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.352608638,2.093832694,20,40,20,"updating","no",333,0.477593077453398
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.172204449,132.9469003,20,40,20,"shifting","no",334,0.007521800040042
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.62802162,2.743292385,65,159,94,"inhibition","no",335,0.364525489688187
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.068054249,0.612094488,72,134,62,"updating","no",336,1.63373469228169
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.516867516,0.273947144,72,134,62,"updating","no",337,3.65033920558048
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.522103403,0.058983251,72,134,62,"shifting","no",338,16.9539654570753
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.570078679,0.066037086,72,134,62,"updating","no",339,15.1430061586909
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.018916682,2.871059831,72,134,62,"shifting","no",340,0.348303434572346
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.289821745,0.931298937,72,134,62,"inhibition","yes",341,1.0737690770069
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.042888456,0.001233936,1153,3890,2737,"inhibition","no",342,810.41480271262
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.217125829,750.8781678,60,162,102,"shifting","no",343,0.00133177397197458
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.184162109,741.7683248,60,162,102,"updating","no",344,0.00134812982243428
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.189817031,0.071858058,60,162,102,"processing speed","no",345,13.916323761491
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.30783237,0.124246485,24,43,19,"updating","yes",346,8.0485174288834
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.725120839,0.172983122,24,43,19,"updating","no",347,5.7809108104778
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.400065145,0.60903598,24,43,19,"updating","no",348,1.64193911827672
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.376341389,0.638165924,24,43,19,"inhibition","yes",349,1.56699059349963
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.711860391,10.77986805,24,43,19,"inhibition","no",350,0.0927655139526499
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.500358579,191.147441,24,43,19,"shifting","no",351,0.00523156362841394
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.177139553,468.5294923,24,43,19,"shifting","yes",352,0.00213433736068785
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.07449056,0.110313969,24,43,19,"updating","no",353,9.06503509088681
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.258648074,0.105382045,24,43,19,"updating","no",354,9.48928254334028
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.859028268,0.103353593,24,43,19,"updating","no",355,9.67552235944037
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.060230812,1.86712522,24,43,19,"processing speed","no",356,0.535582717906837
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.385224498,2.212103867,24,43,19,"updating","no",357,0.452058339085214
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.224698861,0.783605574,24,43,19,"updating","no",358,1.27615222910602
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.998329765,0.406379204,30,60,30,"processing speed","no",359,2.4607558412364
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.90407259,0.085572039,30,60,30,"inhibition","yes",360,11.686060209457
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.36262692,0.679417166,23,46,23,"processing speed","no",361,1.47184977071951
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.921271722,0.125791588,23,46,23,"updating","no",362,7.94965717421422
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.587185296,0.093799393,23,46,23,"inhibition","yes",363,10.6610498001837
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.384769084,22.71861044,16,32,16,"inhibition","no",364,0.0440167765823974
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.193577184,0.099894795,33,60,27,"processing speed","no",365,10.0105315797485
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.376859354,0.117293506,33,60,27,"updating","no",366,8.52562118826937
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.072809793,1.4963955,33,60,27,"shifting","yes",367,0.668272525545553
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.082710933,0.150893223,1059,5047,3988,"processing speed","no",368,6.62720286649322
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.83155329,0.172447477,1059,5047,3988,"processing speed","no",369,5.79886709505179
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.458047309,0.314821487,1059,5047,3988,"processing speed","no",370,3.17640326754444
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.565431053,0.037268911,1059,5047,3988,"updating","no",371,26.832015563857
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.307082775,0.010431994,1059,5047,3988,"updating","no",372,95.8589508391205
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.829755649,56.13860006,15,30,15,"inhibition","no",373,0.0178130555256315
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.109467644,27.15825266,51,96,45,"inhibition","no",374,0.0368212201469371
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.285266739,0.135514568,15,31,16,"shifting","no",375,7.37928043278712
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.787000802,0.138575797,15,31,16,"inhibition","yes",376,7.21626735439234
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.739224153,0.934443986,15,31,16,"processing speed","no",377,1.07015510290844
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.659500845,56.47980134,29,54,25,"inhibition","no",378,0.0177054447125292
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.379336841,0.116259123,18,34,16,"updating","no",379,8.60147551603327
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.202600554,8.920010727,25,52,27,"inhibition","yes",380,0.112107488500333
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.414909087,0.051240513,34,78,44,"inhibition","no",381,19.5158077359608
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.864974121,0.165922635,60,120,60,"shifting","yes",382,6.02690525014866
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.83524788,0.185059891,52,104,52,"shifting","yes",383,5.40365605208316
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.352763916,0.093386401,60,120,60,"shifting","yes",384,10.7081972245616
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.261669804,0.242826668,52,104,52,"updating","no",385,4.11816382539994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.088748208,0.261161056,52,104,52,"updating","no",386,3.82905481895432
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.254895681,0.393280306,52,104,52,"updating","no",387,2.54271567821654
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.862854419,0.128116585,57,112,55,"updating","no",388,7.80539069161108
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.896568194,0.129650757,57,112,55,"updating","no",389,7.7130286250469
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.51904132,0.035300056,57,112,55,"inhibition","yes",390,28.3285669575142
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.070591336,0.694706184,32,64,32,"processing speed","no",391,1.43945746134311
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.276351533,1.210879508,32,64,32,"processing speed","no",392,0.825846001516445
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.8246703,1.909780729,32,64,32,"inhibition","no",393,0.523620321859473
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.745428668,1.681064474,32,64,32,"inhibition","no",394,0.594861181987003
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.443597313,0.042467336,48,95,47,"updating","yes",395,23.547509549457
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.483716508,0.063206762,48,95,47,"inhibition","no",396,15.8210920534104
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.285573761,3.370718033,48,95,47,"updating","no",397,0.296672694129204
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.777674916,0.122100715,21,44,23,"updating","no",398,8.18996023078161
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.478759689,0.233444451,21,44,23,"updating","no",399,4.28367432044894
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.73060409,0.393062711,21,44,23,"updating","no",400,2.54412329639684
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.755621902,0.08803517,21,44,23,"processing speed","no",401,11.3590965974167
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.979912615,0.088441071,21,44,23,"inhibition","no",402,11.3069639330804
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.905523932,0.180888345,16,32,16,"shifting","yes",403,5.52827215042517
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.401376156,0.284982213,16,32,16,"updating","no",404,3.5089909277952
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.866172229,1.123696499,16,32,16,"inhibition","yes",405,0.8899200103319
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.347319561,0.610265435,16,32,16,"updating","no",406,1.63863122937644
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.835849425,0.228118694,18,36,18,"shifting","yes",407,4.38368282083887
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.27299868,0.333815929,18,36,18,"updating","no",408,2.99566291817069
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.898486472,0.997033361,18,36,18,"inhibition","yes",409,1.00297546613388
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.508091393,0.514104933,18,36,18,"updating","no",410,1.94512819428636
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.562182695,0.106629383,18,36,18,"updating","no",411,9.37827803054999
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.436748639,1.242763683,16,32,16,"inhibition","yes",412,0.804658209504502
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.746284747,0.420281005,16,32,16,"updating","no",413,2.37936044718462
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.452713091,0.613187347,16,32,16,"updating","no",414,1.63082295303787
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.60566614,0.277262455,16,32,16,"shifting","no",415,3.60669099608167
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.543041829,0.119465829,16,32,16,"updating","no",416,8.37059440653946
+"psymetadata::maldonado2020::maldonado2020","psymetadata",7.120158828,0.181438167,37,75,38,"shifting","no",417,5.51151952499608
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.705696606,0.06717668,37,75,38,"inhibition","yes",418,14.8861182184056
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.213082133,0.068945635,37,75,38,"updating","no",419,14.5041814467297
+"psymetadata::maldonado2020::maldonado2020","psymetadata",11.95520967,0.08301369,37,75,38,"processing speed","no",420,12.0462058727904
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.076424061,0.054462603,37,75,38,"updating","no",421,18.3612230212353
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.820200414,0.62593519,19,31,12,"inhibition","yes",422,1.59760949052888
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.432524369,1.411300795,29,113,84,"processing speed","no",423,0.708566170686526
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.469276915,3.219770159,29,113,84,"shifting","no",424,0.310581175244689
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.395876083,0.700108919,29,113,84,"updating","no",425,1.4283491794796
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.870724411,0.469353408,35,76,41,"inhibition","yes",426,2.13059068700743
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.779701472,0.112226049,35,76,41,"updating","no",427,8.91058723808409
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.878933888,0.128938445,35,76,41,"shifting","yes",428,7.75563874684544
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.838567657,0.069242107,35,76,41,"updating","no",429,14.4420792972114
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.675645868,0.045298431,60,120,60,"updating","no",430,22.0758198004695
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.623131142,0.044442153,60,120,60,"updating","no",431,22.501160103562
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.585909171,0.460732779,60,120,60,"processing speed","no",432,2.17045551256513
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.559742622,0.425766049,60,120,60,"processing speed","no",433,2.34870770543755
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.866992544,0.274017569,60,120,60,"processing speed","no",434,3.64940103530369
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.179294383,0.041350047,60,120,60,"shifting","yes",435,24.1837693679042
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.160087858,0.30487589,60,120,60,"updating","no",436,3.28002322518845
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.565622188,0.179665258,60,120,60,"updating","no",437,5.56590634790394
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.265160886,0.034786753,60,120,60,"inhibition","yes",438,28.7465748815361
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.357714961,0.036082792,60,120,60,"updating","no",439,27.7140416406801
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.563103026,0.34493521,34,68,34,"processing speed","no",440,2.89909516630674
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.119848863,1.871992128,34,68,34,"shifting","no",441,0.53419028052665
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.882532617,0.48383088,75,131,56,"processing speed","no",442,2.06683790005301
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.26773514,0.684239017,75,131,56,"processing speed","no",443,1.46147760527371
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.997633504,0.103021262,75,131,56,"processing speed","no",444,9.7067341302808
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.044775379,0.049426358,75,131,56,"updating","no",445,20.2321198741773
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.882947174,0.057016728,75,131,56,"updating","no",446,17.5387124985495
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.565078557,0.031679405,75,131,56,"inhibition","yes",447,31.5662494292428
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.595817064,0.168466959,75,131,56,"updating","no",448,5.9358820621912
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.430323439,0.463065774,75,131,56,"processing speed","no",449,2.1595204313243
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.427180092,3.943197658,75,131,56,"shifting","no",450,0.253601286755481
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.059580843,0.225038896,75,131,56,"updating","no",451,4.44367626119175
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.409697153,0.215078669,75,131,56,"updating","no",452,4.64946154190679
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.569802547,0.084893767,21,46,25,"inhibition","yes",453,11.7794278112314
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.085637174,21,46,25,"shifting","yes",454,11.6771718786517
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.346889584,0.093272313,21,46,25,"updating","no",455,10.7212951822048
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.211869902,0.08520562,21,46,25,"updating","no",456,11.7363150458855
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.104312862,0.086570543,66,98,32,"processing speed","no",457,11.5512732777938
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.856167321,0.074022262,66,98,32,"updating","no",458,13.5094493599777
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.892712719,0.054169866,66,98,32,"shifting","yes",459,18.4604481022715
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.169617964,0.659528686,66,98,32,"updating","no",460,1.51623427642691
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.908739116,0.069476504,62,113,51,"processing speed","no",461,14.3933551981833
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.671324637,0.063758286,62,113,51,"processing speed","no",462,15.6842359281741
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.39551364,0.063911062,62,113,51,"updating","no",463,15.646743595029
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.09539416,0.110966327,62,113,51,"updating","no",464,9.01174281455671
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.084726816,21,46,25,"inhibition","yes",465,11.8026387301041
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.558745408,1.071167871,30,56,26,"processing speed","no",466,0.933560487644611
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.550155133,11.81218053,30,56,26,"shifting","no",467,0.0846583742485351
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.367972576,23.79748188,30,56,26,"shifting","no",468,0.042021252712474
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.665008112,0.127590415,30,56,26,"updating","no",469,7.83757933540697
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.477384728,0.121654338,31,75,44,"processing speed","no",470,8.2200110282956
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.211359916,0.150127067,31,75,44,"inhibition","no",471,6.66102402440194
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.80392513,66.59698851,31,75,44,"processing speed","no",472,0.0150156939881725
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.54093259,50.4158513,31,75,44,"processing speed","no",473,0.0198350315270785
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.418487517,159.1389887,31,75,44,"processing speed","no",474,0.00628381522447114
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.47946543,107.7746524,31,75,44,"processing speed","no",475,0.0092786195801268
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.624353236,1.195100402,31,75,44,"updating","no",476,0.836749781295781
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.645792878,1.236107309,31,75,44,"updating","no",477,0.808991252392959
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.101632426,1.699052387,31,75,44,"shifting","no",478,0.588563370765565
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.57718653,6.102683253,31,75,44,"updating","no",479,0.16386234686331
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.09644815,0.20574238,31,75,44,"updating","no",480,4.86044732252052
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.881843661,2.461130322,16,33,17,"processing speed","no",481,0.406317370137216
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.982021467,1.088179468,30,60,30,"processing speed","no",482,0.918966061579835
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.034616272,1.338687124,30,60,30,"processing speed","no",483,0.747000536624269
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.432830387,1.369182664,30,60,30,"processing speed","no",484,0.730362738510396
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.394678894,5.998139514,30,60,30,"shifting","no",485,0.166718362863342
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.316522348,1.411431456,30,60,30,"updating","no",486,0.708500576311373
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.76685321,0.964842368,30,60,30,"inhibition","no",487,1.03643873151308
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.224667624,6.175110088,30,60,30,"inhibition","no",488,0.161940432761399
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.559144657,0.084093293,30,60,30,"shifting","yes",489,11.8915547759558
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.518457514,0.065443554,30,60,30,"shifting","no",490,15.2803437294986
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.327867869,0.067889189,30,60,30,"processing speed","no",491,14.7298857849075
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.685819278,0.249170574,30,60,30,"updating","no",492,4.01331499119956
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.032774986,0.851581282,30,60,30,"updating","no",493,1.17428602663909
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.150439642,160.1406713,33,65,32,"shifting","no",494,0.00624450985425587
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.091688548,0.094972188,33,65,32,"updating","no",495,10.5293983539686
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.074450472,0.112995052,33,65,32,"updating","no",496,8.84994504007131
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.429820737,1.899408403,16,33,17,"updating","no",497,0.526479717800848
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.233383007,0.378596477,16,33,17,"updating","no",498,2.64133466830966
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.968032629,0.11566496,16,33,17,"updating","no",499,8.64566070830786
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.802045161,0.11583297,16,33,17,"updating","no",500,8.63312060460852
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.903462447,0.164077702,16,33,17,"shifting","yes",501,6.09467336396508
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.112174127,70.78315365,16,33,17,"inhibition","no",502,0.0141276553591364
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.263324304,2.527101155,16,33,17,"processing speed","no",503,0.395710317341848
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.519723776,0.138569759,15,30,15,"updating","no",504,7.21658179401178
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.166262201,0.155874215,15,30,15,"processing speed","no",505,6.41542926134383
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.477417232,0.126226203,15,30,15,"inhibition","yes",506,7.92228535940355
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.130327363,15,30,15,"updating","no",507,7.67298575664421
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.583855869,0.139000497,15,30,15,"updating","no",508,7.19421888110227
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.509035267,0.146975457,15,30,15,"updating","no",509,6.80385705485508
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.100425075,0.570861651,15,30,15,"processing speed","no",510,1.75173791801965
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.046577508,0.366774785,15,30,15,"updating","no",511,2.72646877838126
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.343047677,0.344997283,15,30,15,"processing speed","no",512,2.89857355195461
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.129601089,0.787073479,26,104,78,"updating","no",513,1.27052940631481
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.209938288,1.28568533,26,104,78,"updating","yes",514,0.777795294592029
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.185700775,0.256700563,25,50,25,"updating","no",515,3.89558943039794
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.167696656,0.431387466,25,50,25,"inhibition","no",516,2.31810165759429
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.469612614,0.152023618,27,54,27,"updating","no",517,6.57792528000485
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.310584229,214.4274656,115,197,82,"processing speed","no",518,0.00466358167878285
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.786270515,334.1923731,18,36,18,"inhibition","no",519,0.0029922885155155
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.64404474,0.391980247,18,36,18,"updating","no",520,2.55114896134039
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.183810163,0.345913857,23,52,29,"inhibition","yes",521,2.89089315089219
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.958631536,0.178354126,23,52,29,"updating","no",522,5.60682291140268
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.853406359,0.075792787,23,52,29,"updating","no",523,13.1938676433682
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,3.247345549,23,52,29,"processing speed","no",524,0.307943822088149
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.517746068,800.621943,23,52,29,"shifting","no",525,0.00124902896896994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.462601686,0.050401136,60,120,60,"inhibition","no",526,19.8408226354263
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.570581219,0.168766887,60,120,60,"inhibition","no",527,5.92533297127179
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.177450822,48.33169211,60,120,60,"processing speed","no",528,0.0206903577413359
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.659203499,0.03695676,60,120,60,"updating","no",529,27.0586490807095
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.007926522,0.038289617,60,120,60,"updating","no",530,26.1167407341787
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.972853401,138.4858267,30,60,30,"updating","no",531,0.00722095555790187
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.446708717,0.016564994,144,247,103,"updating","no",532,60.3682681684038
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.65655827,0.016565308,144,247,103,"updating","no",533,60.367123871165
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.722690572,0.016570036,144,247,103,"updating","no",534,60.3498990587588
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.724176989,0.016592516,144,247,103,"updating","no",535,60.2681353448748
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.589682128,0.016594802,144,247,103,"updating","no",536,60.2598331694467
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.695253635,0.016590199,144,247,103,"updating","yes",537,60.2765524391841
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.517986575,0.016571062,144,247,103,"updating","no",538,60.3461624849391
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.370712153,0.01656982,144,247,103,"updating","no",539,60.3506857648423
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.334538149,0.016567987,144,247,103,"updating","no",540,60.357362665724
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.123766049,0.016591306,144,247,103,"updating","no",541,60.2725306856495
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.325771293,0.016572629,144,247,103,"updating","no",542,60.3404565443419
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.131810327,0.01658231,144,247,103,"updating","no",543,60.305228885481
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.557845351,3.411346348,14,33,19,"processing speed","no",544,0.293139393655024
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.067844789,0.118664863,14,33,19,"inhibition","yes",545,8.42709437923507
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.231799706,0.461838659,14,33,19,"shifting","no",546,2.16525832238743
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.254347704,0.188448001,14,33,19,"processing speed","no",547,5.30650362271553
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.50062302,0.232970756,40,80,40,"processing speed","no",548,4.2923842338392
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.390840467,3.192015054,40,80,40,"processing speed","no",549,0.313281730531588
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.288853162,0.084348838,40,80,40,"updating","no",550,11.8555278734249
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.300278863,0.081712937,40,80,40,"updating","no",551,12.2379642283571
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.00216748,0.052871274,40,80,40,"updating","no",552,18.9138623744909
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.036398581,0.676292558,40,80,40,"inhibition","yes",553,1.47865001347538
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.508752342,7.552469939,40,80,40,"shifting","no",554,0.132407014933767
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.078749812,1.515737957,16,34,18,"processing speed","no",555,0.659744644766457
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.36522367,0.168761485,16,34,18,"updating","no",556,5.92552263924438
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.288171305,4.697267955,16,34,18,"inhibition","no",557,0.212889707289437
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.558126436,0.861965869,24,48,24,"processing speed","no",558,1.16013874326618
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.959618512,0.131869793,24,48,24,"updating","no",559,7.5832378079186
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.227509362,152.4304564,24,48,24,"inhibition","no",560,0.00656036873218993
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.00044263,242.4264579,16,40,24,"shifting","no",561,0.00412496230263982
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.246072943,0.407951625,79,149,70,"updating","no",562,2.45127102999038
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.758317808,0.03708876,79,149,70,"inhibition","no",563,26.9623465438046
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.742212605,0.582420804,79,149,70,"updating","no",564,1.71697163482505
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.416739693,3.234794636,67,134,67,"processing speed","no",565,0.309138635532225
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.214713512,17.89340774,67,134,67,"inhibition","no",566,0.0558865038191993
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.736394741,1.756056599,20,41,21,"processing speed","no",567,0.56945772737021
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.142062839,0.130214849,20,41,21,"updating","no",568,7.67961570957242
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.875561723,0.119917998,20,41,21,"updating","no",569,8.33903181072119
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.744195553,1.954888702,17,50,33,"updating","no",570,0.51153807322991
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.621681906,0.053576224,40,80,40,"shifting","no",571,18.6649958757825
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.456645589,0.494355608,40,80,40,"updating","no",572,2.02283535134894
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.472661641,75.50172756,45,93,48,"shifting","no",573,0.013244730052108
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.480887814,0.060563464,45,93,48,"updating","no",574,16.5116050825626
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.139215053,0.534757554,80,160,80,"processing speed","no",575,1.87000630943869
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.547485951,155.1324949,80,160,80,"updating","no",576,0.00644610273717708
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.887142031,49.86952028,30,60,30,"inhibition","no",577,0.0200523284440145
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.312103691,0.008402284,386,740,354,"updating","no",578,119.015258232166
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.589791864,0.008775239,386,740,354,"updating","no",579,113.95701017374
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.474212731,0.017017874,386,740,354,"updating","no",580,58.7617466200537
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.952070567,0.008524428,386,740,354,"updating","no",581,117.309923903399
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.350109115,6.337584324,17,37,20,"shifting","no",582,0.157788827552648
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.925085032,0.251436116,17,37,20,"updating","no",583,3.97715338555421
+"psymetadata::maldonado2020::maldonado2020","psymetadata",15.63484231,0.110554493,17,37,20,"inhibition","yes",584,9.04531306565713
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.745959077,0.226897532,17,37,20,"updating","no",585,4.40727579178781
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.656339335,0.149202195,16,35,19,"updating","no",586,6.70231426555085
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.204269258,0.171551577,16,35,19,"updating","no",587,5.82915072823842
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.046224229,0.119987674,16,35,19,"updating","no",588,8.3341893934872
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.839829225,0.368159527,57,129,72,"processing speed","no",589,2.71621383303222
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.331436291,1.160559935,57,129,72,"shifting","no",590,0.861653043364796
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.25254637,0.168437554,16,32,16,"updating","no",591,5.93691831929595
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.119964692,16,32,16,"shifting","yes",592,8.3357859994339
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.46962615,1.311541271,15,30,15,"processing speed","no",593,0.762461709830556
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.52180045,7.758486486,15,30,15,"shifting","no",594,0.128891118364964
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.60822903,3.181227173,15,30,15,"inhibition","yes",595,0.314344102328589
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.348377809,1.732993922,15,30,15,"processing speed","no",596,0.577036068797015
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.262825977,12.78285244,15,30,15,"shifting","no",597,0.078229800797106
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.602949759,14.55945565,15,30,15,"inhibition","yes",598,0.0686838865435192
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.729750705,0.136257297,17,34,17,"processing speed","no",599,7.33905649104429
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.17459439,1.346893058,17,34,17,"inhibition","yes",600,0.74244944248573
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.343640883,2.700842741,17,34,17,"processing speed","no",601,0.370254804109678
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.474849805,22.90371382,76,152,76,"inhibition","yes",602,0.0436610415175018
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.080987739,0.125379352,76,152,76,"updating","no",603,7.97579492993392
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.155076708,0.36721214,20,40,20,"processing speed","no",604,2.72322151440854
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.349663603,0.236562431,20,40,20,"shifting","no",605,4.22721391462197
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.98436387,54.14498119,24,48,24,"processing speed","no",606,0.0184689324480676
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.98070933,0.080794813,24,48,24,"inhibition","yes",607,12.3770321740828
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.75700031,0.920627519,24,48,24,"processing speed","no",608,1.08621562940701
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.449003082,0.124676666,24,48,24,"updating","no",609,8.02074704179209
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.847632923,0.114931302,24,48,24,"updating","no",610,8.70084983462556
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.637915381,0.805819672,24,48,24,"processing speed","no",611,1.24097243433888
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.136049897,1.552903621,24,48,24,"processing speed","no",612,0.643954966990189
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.29447292,0.256312147,24,48,24,"updating","no",613,3.901492815321
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.171785534,0.467548019,31,56,25,"processing speed","no",614,2.13881774569127
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.256400538,1.397992645,31,56,25,"processing speed","no",615,0.715311345575784
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.754732345,12.08365175,31,56,25,"shifting","no",616,0.0827564399147799
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.843084178,1.895074744,31,56,25,"inhibition","yes",617,0.527683672196098
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.325429738,0.991585058,31,56,25,"updating","no",618,1.0084863541782
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.296351628,0.552623195,31,56,25,"updating","no",619,1.80955126213984
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.879062006,0.219788272,31,56,25,"updating","no",620,4.5498333050273
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.317094346,0.288673121,31,56,25,"updating","no",621,3.46412577844406
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.71747384,10.55137573,14,28,14,"inhibition","no",622,0.0947743711899832
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.063676953,1.365396063,24,48,24,"processing speed","no",623,0.732388225730515
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.984155684,0.842565843,24,48,24,"processing speed","no",624,1.18685086549372
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.704339994,0.135436375,24,48,24,"updating","no",625,7.38354079544731
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.845648633,0.144235924,24,48,24,"updating","no",626,6.93308554670472
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.750902612,2.692489922,24,48,24,"shifting","no",627,0.371403432870491
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.420862214,0.080797837,24,48,24,"inhibition","yes",628,12.3765689420621
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.14543913,7.983068236,21,40,19,"shifting","yes",629,0.125265119931013
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.761983994,9.220652402,21,40,19,"inhibition","no",630,0.108452195831945
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.496187414,1.584432182,16,32,16,"processing speed","no",631,0.63114092945128
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.221993914,0.127312806,15,30,15,"processing speed","no",632,7.85466938808968
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.275802434,0.127511671,15,30,15,"shifting","no",633,7.84241938136
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.88133216,0.025696041,62,164,102,"inhibition","no",634,38.9165007948112
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.23256919,53.65445556,62,164,102,"inhibition","no",635,0.0186377811416189
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.355284221,25.42871158,62,164,102,"inhibition","yes",636,0.0393256259505697
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.922329381,100.9385046,62,164,102,"inhibition","yes",637,0.0099070221414792
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.36661519,0.873341306,62,164,102,"updating","yes",638,1.14502771497218
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.294922434,0.047712997,62,164,102,"updating","no",639,20.9586499041341
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.005036184,0.21447883,62,164,102,"updating","no",640,4.66246482228572
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.600641616,0.053923901,50,100,50,"updating","no",641,18.5446523982009
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.480569287,1.938137927,50,100,50,"shifting","no",642,0.51595915134269
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-3.482709573,0.382543755,50,100,50,"updating","no",643,2.61408005471165
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.17052244,0.277323414,50,100,50,"shifting","no",644,3.60589820230614
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.982351911,0.169751512,63,127,64,"processing speed","no",645,5.89096372820526
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.245638393,0.219552658,63,127,64,"updating","yes",646,4.55471598071019
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.741713268,0.688543469,63,127,64,"processing speed","no",647,1.45234113025913
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.927518897,0.039456735,50,100,50,"updating","no",648,25.3442156326417
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.893023852,7.368025231,50,100,50,"inhibition","no",649,0.135721576494151
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.164526837,63.61318914,50,100,50,"shifting","no",650,0.0157200104808328
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.246753836,47.91374856,50,100,50,"shifting","no",651,0.0208708362433332
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.081825278,0.095749907,22,48,26,"updating","no",652,10.4438743736848
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.074221247,0.15198479,22,48,26,"processing speed","no",653,6.57960576186604
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.070079066,0.101040823,22,48,26,"updating","no",654,9.8969898532992
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.383815256,0.272466515,22,48,26,"processing speed","no",655,3.67017576453385
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.561990097,0.181210804,22,48,26,"updating","no",656,5.51843476175957
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.109808632,0.372288471,22,48,26,"updating","no",657,2.6860890892321
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.301510485,0.235631659,22,48,26,"updating","no",658,4.24391189301095
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.310346209,0.182420156,22,48,26,"updating","no",659,5.48185037184159
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.56978798,0.088695351,22,48,26,"updating","no",660,11.2745480876444
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.280712357,0.092323408,22,48,26,"updating","no",661,10.8314892361859
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.909341368,0.493729876,39,78,39,"processing speed","no",662,2.02539900583209
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.905562502,1.419904616,16,32,16,"processing speed","no",663,0.704272659396721
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.403267968,565.8309883,16,32,16,"shifting","no",664,0.0017673121845172
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.096199657,0.543118492,36,72,36,"processing speed","no",665,1.84121884032628
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.054553989,218.2198905,36,72,36,"shifting","no",666,0.00458253368979671
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.058892806,1.088835097,29,155,126,"processing speed","no",667,0.918412717183013
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.041745874,11.72636195,29,155,126,"shifting","no",668,0.0852779407853772
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.692712631,0.070182404,42,84,42,"updating","no",669,14.2485857281264
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.597658416,0.061942838,42,84,42,"updating","no",670,16.1439164282399
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.939979782,0.047333678,42,84,42,"inhibition","yes",671,21.1266067259764
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.29070599,1740.908563,42,84,42,"shifting","no",672,0.000574412706820605
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.707364458,0.372756875,27,54,27,"processing speed","no",673,2.68271376617802
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.285570339,1.567061791,27,54,27,"processing speed","no",674,0.638136929726213
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.343487437,1.538657969,27,54,27,"processing speed","no",675,0.649917018692541
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.38690594,0.199741768,27,54,27,"updating","no",676,5.00646414624707
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.740564112,0.130649933,27,54,27,"updating","no",677,7.65404142993323
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.159217226,0.200144646,27,54,27,"processing speed","no",678,4.99638646341806
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.418762446,188.1563024,18,62,44,"processing speed","no",679,0.0053147302920213
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.188116311,0.280186741,18,62,44,"processing speed","no",680,3.56904825842562
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.232039074,0.076402639,18,62,44,"processing speed","no",681,13.0885531323074
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.718473734,0.076543786,18,62,44,"processing speed","no",682,13.0644177961095
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.774617705,0.076375904,18,62,44,"shifting","yes",683,13.0931347143204
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.701951689,0.668383004,20,41,21,"processing speed","no",684,1.49614815759139
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.137115436,0.208861434,48,96,48,"processing speed","no",685,4.78786332569181
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.649832668,0.26521063,48,96,48,"processing speed","no",686,3.7705879285457
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.806095036,0.108559173,48,96,48,"updating","no",687,9.21156611979717
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.451128236,0.062437067,48,96,48,"updating","no",688,16.0161270868153
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.47502478,0.082954801,48,96,48,"updating","no",689,12.0547573852899
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.41380469,0.041080828,48,96,48,"inhibition","yes",690,24.3422552242618
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.695369209,0.06769419,29,58,29,"inhibition","no",691,14.7723165016082
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.256596648,1.76595075,29,58,29,"inhibition","no",692,0.56626720762173
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.497934002,0.21590475,25,50,25,"processing speed","no",693,4.63167206835422
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.033661043,0.144366547,15,29,14,"updating","no",694,6.9268124837813
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.788356525,70.34801424,15,29,14,"processing speed","no",695,0.014215042326403
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.940849058,1.682497034,15,29,14,"processing speed","no",696,0.594354688175932
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.845977411,0.135167404,15,29,14,"updating","no",697,7.39823337881077
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.696754847,0.244884223,15,29,14,"updating","no",698,4.08356237796503
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.752666719,1.204223868,18,36,18,"processing speed","no",699,0.830410380140381
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.243873467,0.142411523,18,36,18,"updating","no",700,7.0219036980596
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.117460317,0.112734156,18,36,18,"inhibition","no",701,8.87042610227197
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.559163169,0.593475621,88,141,53,"processing speed","no",702,1.68498918003575
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.040033183,0.508194997,88,141,53,"updating","no",703,1.96774861205491
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.941839248,0.24585866,88,141,53,"updating","no",704,4.06737757376535
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.463480399,2.243584047,15,28,13,"processing speed","no",705,0.445715417408653
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.596489693,0.162278417,15,28,13,"updating","yes",706,6.16224892063126
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.18412751,0.177465152,15,28,13,"updating","no",707,5.63490910035115
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.129925066,2163.838465,15,28,13,"shifting","yes",708,0.000462141706127772
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.502983294,1330.33642,15,28,13,"shifting","no",709,0.000751689561351707
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.402804308,67.31053697,15,28,13,"inhibition","no",710,0.014856514968016
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.190768597,202.4046333,15,28,13,"inhibition","yes",711,0.00494059836326879
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.531126262,0.211297612,15,28,13,"updating","no",712,4.73266115283877
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.531177325,0.911578202,15,28,13,"updating","no",713,1.0969985875112
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.963848551,0.1763778,15,28,13,"updating","no",714,5.6696477674628
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.274971011,0.152994688,15,28,13,"updating","no",715,6.53617464156664
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.165525321,0.166759955,15,28,13,"updating","no",716,5.99664349873445
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.549819027,5.855722662,15,28,13,"updating","no",717,0.170773115074144
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.763278465,1.428159474,15,28,13,"updating","no",718,0.700201915966144
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.560314526,0.306092356,55,110,55,"processing speed","no",719,3.2669878237665
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.52642275,2.64706721,55,110,55,"shifting","no",720,0.377776580897619
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.423319059,0.054529256,55,110,55,"updating","no",721,18.3387794617994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.157595978,0.055240388,55,110,55,"updating","no",722,18.102696889095
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.650778338,0.376149307,55,110,55,"updating","no",723,2.65851878865751
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.481470707,169.6122295,24,48,24,"updating","no",724,0.00589580128123957
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.339099447,0.673175724,121,185,64,"processing speed","no",725,1.4854962298076
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.1734649,11.71509217,121,185,64,"shifting","no",726,0.0853599771550069
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.56393405,0.025004041,121,185,64,"shifting","yes",727,39.9935354449307
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.367957405,0.224918044,121,185,64,"updating","no",728,4.44606391828661
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.889020256,0.250021097,121,185,64,"updating","no",729,3.99966247648293
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.449223571,0.117322962,121,185,64,"updating","no",730,8.52348068061903
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.865164407,2.680654024,20,40,20,"processing speed","no",731,0.37304329131882
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.744094912,1.206360326,20,40,20,"processing speed","no",732,0.828939727581857
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.074501564,0.104707696,20,40,20,"updating","no",733,9.55039637201071
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.990892701,0.113552969,20,40,20,"updating","no",734,8.8064628235304
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.714946653,0.503708663,20,40,20,"inhibition","yes",735,1.98527457130512
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.522797723,0.264892884,20,40,20,"updating","yes",736,3.77511084820232
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.253122069,1.048521549,20,40,20,"updating","no",737,0.953723841874041
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.660670019,4.912741849,20,40,20,"shifting","no",738,0.203552319811706
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.438679592,0.104524192,36,68,32,"updating","no",739,9.56716316926899
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.204914215,0.058402042,36,68,32,"updating","no",740,17.1226889635126
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-8.239364885,0.062208905,36,68,32,"processing speed","no",741,16.0748690239766
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-7.930629404,0.066773907,36,68,32,"processing speed","no",742,14.9759096768143
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.017543701,0.074705621,36,68,32,"shifting","yes",743,13.385873601131
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-4.683003855,0.212956513,38,138,100,"processing speed","no",744,4.69579439441704
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.592496308,0.041480293,246,278,32,"updating","no",745,24.1078335680994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.890584526,0.053470647,246,278,32,"updating","no",746,18.7018496335008
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.037462958,0.061702125,246,278,32,"updating","no",747,16.2068972502973
+"psymetadata::maldonado2020::maldonado2020","psymetadata",14.75437239,0.480066577,246,278,32,"inhibition","no",748,2.08304441073389
+"psymetadata::maldonado2020::maldonado2020","psymetadata",12.99532485,0.741442597,246,278,32,"inhibition","no",749,1.34872207780638
+"psymetadata::maldonado2020::maldonado2020","psymetadata",18.89885483,5.350783227,246,278,32,"shifting","no",750,0.186888527824115
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.902101177,199.7303026,22,52,30,"shifting","no",751,0.00500675153936306
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.642871159,239.0743674,22,52,30,"shifting","no",752,0.00418279889590539
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.314094073,982.1133324,25,51,26,"shifting","no",753,0.00101821242723209
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.540543985,1270.387332,25,51,26,"shifting","no",754,0.00078716150170175
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.066789264,1.154367795,31,55,24,"updating","no",755,0.866275033253158
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.090082606,0.13795696,31,55,24,"updating","no",756,7.24863754608684
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.142445475,0.085100391,31,55,24,"shifting","yes",757,11.750827325811
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.164609587,0.245331375,31,55,24,"processing speed","no",758,4.07611949348101
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.502054775,1.390104491,20,40,20,"processing speed","no",759,0.719370382927567
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.746355983,0.170825094,20,40,20,"updating","no",760,5.85394087358149
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.51142685,1.406077258,20,40,20,"updating","no",761,0.711198473846591
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.892409429,0.608873873,20,40,20,"shifting","no",762,1.64237626928032
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.637021094,0.096205258,20,40,20,"inhibition","no",763,10.3944422663468
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.104166588,0.07760014,25,50,25,"inhibition","yes",764,12.8865746891694
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.467143455,1.290741449,25,50,25,"processing speed","no",765,0.774748498837431
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.942563116,0.121474715,25,50,25,"updating","no",766,8.232165846201
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.839039013,0.106711636,25,50,25,"updating","no",767,9.3710492827605
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.137173003,0.959769658,25,50,25,"processing speed","no",768,1.04191666371683
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.528337341,1.65071962,25,50,25,"processing speed","no",769,0.6057963980582
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.430761402,0.188308697,25,50,25,"updating","no",770,5.31042918320443
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.830643082,0.068610456,40,81,41,"updating","no",771,14.5750379504838
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.281228839,0.048515121,40,81,41,"inhibition","yes",772,20.612130391265
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.473670787,0.45120545,40,81,41,"shifting","yes",773,2.21628528644767
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.021776647,0.139891005,16,32,16,"shifting","yes",774,7.1484224450314
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.348193271,0.917554696,16,32,16,"inhibition","no",775,1.08985328543292
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.55356486,6.249098872,16,32,16,"shifting","no",776,0.160023072203361
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.879174956,1.214167396,16,32,16,"inhibition","yes",777,0.823609663127538
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.046671769,0.523572386,16,32,16,"updating","no",778,1.9099555796665
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.418608252,1.983996562,15,20,5,"processing speed","no",779,0.504033131484832
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.444555742,5.762265953,15,20,5,"shifting","no",780,0.173542840291738
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.029577465,0.541805726,15,20,5,"updating","no",781,1.8456800140942
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.918473215,0.550061231,15,20,5,"updating","no",782,1.81797942418523
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.49909512,2.441030483,15,20,5,"updating","no",783,0.409663052945988
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.031419285,0.399627587,15,20,5,"updating","no",784,2.50232975032327
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.41881082,0.080274607,20,58,38,"shifting","no",785,12.4572394356288
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.584824101,2.417846727,16,28,12,"processing speed","no",786,0.413591146549134
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.28503926,44.13051741,16,28,12,"shifting","no",787,0.0226600560947287
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.611636818,163.2676161,22,44,22,"inhibition","no",788,0.00612491334097454
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.071778525,0.248825668,30,66,36,"processing speed","no",789,4.0188779881021
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.988235294,0.059755646,30,66,36,"inhibition","yes",790,16.7348203381485
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.311216621,4.124483674,30,66,36,"processing speed","no",791,0.242454590450635
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.187181068,13.97550903,30,66,36,"shifting","no",792,0.0715537443289821
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.295766669,0.112544322,30,66,36,"updating","no",793,8.88538828284913
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.465247222,0.116095628,30,66,36,"updating","no",794,8.61358879078547
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.130269944,0.066525322,30,66,36,"updating","yes",795,15.0318701200725
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.304421191,0.066858257,30,66,36,"processing speed","no",796,14.9570157056293
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.078297524,0.50866285,30,66,36,"shifting","yes",797,1.9659387352546
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.622418988,6.921119012,36,72,36,"processing speed","no",798,0.144485306244001
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.864840993,0.093579605,36,72,36,"updating","no",799,10.6860891323489
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.253869397,0.919383936,36,72,36,"inhibition","yes",800,1.08768487336285
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.666232294,1.017249515,17,33,16,"updating","no",801,0.983042985279772
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.333761232,0.323722935,17,33,16,"updating","no",802,3.08906132955949
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.110377644,0.29574536,17,33,16,"updating","no",803,3.38128719923112
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.866988254,2.402716319,17,33,16,"inhibition","no",804,0.416195616641167
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.888754441,75.81356484,17,33,16,"inhibition","no",805,0.0131902516668414
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.520355558,71.97025368,17,33,16,"shifting","no",806,0.0138946293623791
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.729042997,154.0498239,17,33,16,"shifting","yes",807,0.00649140631701819
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.416623506,0.162249014,35,70,35,"inhibition","yes",808,6.16336565225598
+"psymetadata::maldonado2020::maldonado2020","psymetadata",9.059557668,0.083638446,35,70,35,"processing speed","no",809,11.9562240551433
+"psymetadata::maldonado2020::maldonado2020","psymetadata",6.833989839,0.488462005,35,70,35,"shifting","no",810,2.04724213913015
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.333839809,0.056692238,35,70,35,"updating","no",811,17.6390990244555
+"psymetadata::maldonado2020::maldonado2020","psymetadata",5.892699578,0.056625177,35,70,35,"updating","no",812,17.6599889480257
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.596039263,0.111976887,20,40,20,"updating","no",813,8.93041436309977
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.603158431,0.116359896,20,40,20,"updating","no",814,8.59402624423109
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.245658506,392.1649161,20,40,20,"inhibition","no",815,0.00254994763413514
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.758260508,0.104859314,33,64,31,"updating","no",816,9.53658727921871
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.591135447,2.171984216,140,280,140,"processing speed","no",817,0.46040850234245
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.754506392,0.019292707,140,280,140,"updating","no",818,51.8330579529353
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.257408711,0.020537386,140,280,140,"updating","no",819,48.6916884164323
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.072115338,0.174363888,140,280,140,"processing speed","no",820,5.73513249486614
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.035418359,0.272455565,28,60,32,"updating","no",821,3.67032326904389
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.366878867,1.151666225,28,60,32,"updating","no",822,0.868307134734285
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.434174433,0.104609948,28,60,32,"updating","no",823,9.55932030479549
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.889093554,2.012954472,22,44,22,"updating","no",824,0.496782224292652
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.528099169,0.322305047,22,44,22,"updating","no",825,3.10265076302078
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.436587342,0.2878389,22,44,22,"updating","no",826,3.47416558359555
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.467965608,0.151234602,22,44,22,"updating","no",827,6.61224340710071
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.138422452,0.058791766,48,96,48,"updating","yes",828,17.0091845854741
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.144861681,0.039942884,105,194,89,"processing speed","no",829,25.0357485453479
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.193859634,0.239928511,105,194,89,"updating","no",830,4.16790816494502
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.342361179,0.020814152,105,194,89,"updating","no",831,48.0442345188985
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.832223978,19.84577225,47,100,53,"shifting","yes",832,0.0503885657561146
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.921038386,0.317974419,26,78,52,"updating","no",833,3.14490707505625
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.517569969,0.263519288,26,78,52,"updating","no",834,3.79478863801423
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.675449749,63.78264826,26,78,52,"inhibition","yes",835,0.0156782452168442
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.299352974,0.452509998,26,78,52,"inhibition","no",836,2.20989592366973
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.849297497,1.404307124,21,44,23,"processing speed","no",837,0.712094941989342
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.952302797,2.196370955,21,44,23,"processing speed","no",838,0.455296496123989
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.619924191,2.315440807,21,44,23,"inhibition","yes",839,0.431883206418759
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.418498911,13.06208396,21,44,23,"shifting","no",840,0.0765574622749554
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.963973586,7.746302039,20,47,27,"processing speed","no",841,0.129093856005787
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.167283947,3.265546823,20,47,27,"inhibition","yes",842,0.306227426584966
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.061777664,0.165650251,20,47,27,"inhibition","no",843,6.0368154830022
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.845286666,0.06289731,35,65,30,"shifting","yes",844,15.898931130759
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.245765481,0.543268217,35,65,30,"updating","no",845,1.84071139946698
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-3.208776871,0.720773985,24,48,24,"processing speed","no",846,1.38739746551757
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.288920563,0.35836252,41,60,19,"inhibition","yes",847,2.79047038736082
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.684085553,0.13194345,41,60,19,"inhibition","no",848,7.57900449018121
+"psymetadata::maldonado2020::maldonado2020","psymetadata",10.20950804,0.082018258,30,60,30,"inhibition","yes",849,12.1924072076732
+"psymetadata::maldonado2020::maldonado2020","psymetadata",5.380553865,0.065735813,30,60,30,"updating","no",850,15.212407884877
+"psymetadata::maldonado2020::maldonado2020","psymetadata",6.936206147,0.06903955,30,60,30,"updating","no",851,14.4844513036368
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.511086734,0.068703453,30,60,30,"updating","no",852,14.5553091778371
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.555628182,1.402745332,26,46,20,"inhibition","yes",853,0.712887775982989
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.480333027,0.933031029,26,46,20,"inhibition","yes",854,1.07177571690384
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.489896464,0.115424154,26,46,20,"updating","no",855,8.66369789463651
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.870134163,0.112539949,26,46,20,"updating","no",856,8.88573354516093
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.198922605,0.056579276,70,149,79,"processing speed","no",857,17.6743159456477
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.784353285,0.038693041,70,149,79,"shifting","yes",858,25.8444406062579
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.184883686,0.450823784,70,149,79,"inhibition","yes",859,2.2181615866123
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.42811195,0.061827234,70,149,79,"updating","no",860,16.1741021763969
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.013638295,0.103495352,70,149,79,"updating","no",861,9.66226966405216
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.147405208,0.028500046,70,149,79,"shifting","no",862,35.0876626655269
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.325943797,0.100887981,70,149,79,"inhibition","yes",863,9.9119834700627
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.210185278,547.8403661,70,149,79,"inhibition","no",864,0.00182534924748036
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.07556121,82.94439875,70,149,79,"inhibition","yes",865,0.0120562692004564
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.613998246,0.530373521,70,149,79,"updating","yes",866,1.88546365986472
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.180015167,0.198124663,70,149,79,"updating","no",867,5.04732719722027
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.377801813,0.602499722,70,149,79,"updating","no",868,1.65975180317179
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.014201955,0.048275546,70,149,79,"updating","no",869,20.7144213345614
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.885847632,0.100572439,70,149,79,"updating","no",870,9.94308192128064
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.263705635,2.757350956,70,149,79,"processing speed","no",871,0.362666927771381
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.414177821,0.045834249,70,149,79,"shifting","no",872,21.8177459392866
+"psymetadata::maldonado2020::maldonado2020","psymetadata",6.842668253,0.219934497,26,58,32,"inhibition","yes",873,4.5468083162961
+"psymetadata::maldonado2020::maldonado2020","psymetadata",8.113392263,0.112443388,26,58,32,"processing speed","no",874,8.89336418785247
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.315071364,1.686312791,26,58,32,"shifting","no",875,0.59300979351938
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.821207736,0.06958572,26,58,32,"updating","yes",876,14.3707645764102
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.015012741,1.781746632,16,32,16,"updating","no",877,0.561247026956636
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.720898934,0.127596851,16,32,16,"shifting","yes",878,7.83718400699403
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.327815528,1.943271369,16,32,16,"inhibition","yes",879,0.514596168066118
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.169540167,3.455991631,104,259,155,"shifting","no",880,0.28935255254384
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.480131256,0.029424836,104,259,155,"updating","no",881,33.9848962964483
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.769866896,0.03858057,104,259,155,"updating","no",882,25.9197829373698
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.434740318,0.473080317,16,32,16,"shifting","yes",883,2.11380597345799
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.923788347,0.195537993,16,32,16,"updating","no",884,5.11409565301205
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.621880439,0.215699634,16,32,16,"updating","no",885,4.63607648031521
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.509406343,0.261457701,16,32,16,"updating","no",886,3.824710445228
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.578818907,0.359309841,16,32,16,"updating","no",887,2.78311330749218
+"psymetadata::maldonado2020::maldonado2020","psymetadata",5.438598878,11.91194239,18,38,20,"updating","no",888,0.0839493650371827
+"psymetadata::maldonado2020::maldonado2020","psymetadata",7.77878985,54.7098692,12,24,12,"inhibition","yes",889,0.0182782378138093
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.502054775,1.390104491,20,40,20,"processing speed","no",890,0.719370382927567
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.746355983,0.170825094,20,40,20,"updating","no",891,5.85394087358149
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.51142685,1.406077258,20,40,20,"updating","no",892,0.711198473846591
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.892409429,0.608873873,20,40,20,"shifting","yes",893,1.64237626928032
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.928896908,219.4746985,20,40,20,"inhibition","no",894,0.00455633385913958
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.847852119,4.05162773,20,40,20,"processing speed","no",895,0.246814383413256
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.002844208,7.351411871,20,40,20,"shifting","no",896,0.136028291918294
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.641225359,0.098203165,20,40,20,"inhibition","yes",897,10.1829711903888
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.759833615,4.485704157,49,122,73,"inhibition","no",898,0.222930439681245
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.516720793,0.950735494,30,55,25,"updating","no",899,1.05181725759783
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.712041303,0.25789937,30,55,25,"updating","no",900,3.87748136026854
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.918969789,0.080437205,30,55,25,"updating","no",901,12.4320580258849
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.122887674,0.082405032,30,55,25,"updating","no",902,12.1351812593192
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.4133732,743.7815528,30,55,25,"shifting","no",903,0.00134448077696395
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.381823093,160.2753134,30,60,30,"inhibition","no",904,0.00623926404376633
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.396976202,0.876445345,129,156,27,"inhibition","no",905,1.14097245847087
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.592069231,27.39076449,29,55,26,"inhibition","no",906,0.0365086560605158
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.300550395,0.130197869,29,55,26,"updating","no",907,7.68061726110126
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.01239841,1.327439363,29,55,26,"updating","no",908,0.753330078851971
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.638861697,1.086868498,29,55,26,"updating","no",909,0.920074509326702
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.096516343,0.343580043,29,55,26,"updating","no",910,2.91052993435943
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.566795045,0.208853061,29,55,26,"updating","no",911,4.78805527298448
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.924329274,2.799811261,29,55,26,"processing speed","no",912,0.357166932617748
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.637141394,57.82700364,29,55,26,"shifting","no",913,0.0172929589474403
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.901061452,1.478162058,29,55,26,"processing speed","no",914,0.676515808661083
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.583432489,410.4211207,22,44,22,"shifting","no",915,0.00243652178107802
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.079631916,386.815372,22,44,22,"shifting","no",916,0.00258521266833212
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.997134182,0.453006393,61,121,60,"processing speed","no",917,2.20747436559907
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.071392843,0.64284874,35,70,35,"processing speed","no",918,1.55557588866084
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.035001216,0.50564954,43,84,41,"processing speed","no",919,1.97765432556312
+"psymetadata::maldonado2020::maldonado2020","psymetadata",5.493624591,0.836074076,20,40,20,"inhibition","no",920,1.19606626817598
+"psymetadata::maldonado2020::maldonado2020","psymetadata",10.07017768,0.449493308,53,107,54,"inhibition","yes",921,2.22472722552746
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.194216844,0.377301606,53,107,54,"inhibition","no",922,2.65039953209211
+"psymetadata::maldonado2020::maldonado2020","psymetadata",11.81174684,4.060293958,53,107,54,"processing speed","no",923,0.246287586648671
+"psymetadata::maldonado2020::maldonado2020","psymetadata",7.060781247,1.991521849,53,107,54,"processing speed","no",924,0.502128560880278
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.057890673,83,179,96,"updating","no",925,17.2739397933757
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.859742588,0.073965115,83,179,96,"updating","no",926,13.5198870440477
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.750127429,0.060537342,83,179,96,"updating","no",927,16.5187298775027
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.292364239,0.040346521,83,179,96,"updating","no",928,24.7852844610815
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.805456655,0.244192784,83,179,96,"processing speed","no",929,4.09512510410627
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.353322089,0.174022824,83,179,96,"inhibition","yes",930,5.74637267120777
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.549624644,0.034297072,83,179,96,"updating","no",931,29.1570079218424
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.990320206,324.0099669,33,61,28,"shifting","no",932,0.00308632481144826
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.045806516,0.101450405,33,61,28,"updating","no",933,9.8570330990793
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.118468085,0.114272396,33,61,28,"updating","no",934,8.7510198000924
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.142858738,84.02739,39,66,27,"inhibition","no",935,0.0119008813673732
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.126696656,671.6669981,30,63,33,"shifting","no",936,0.00148883301223491
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.526187755,28.24450569,15,32,17,"shifting","no",937,0.0354051159887727
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.91407913,26.60412912,39,65,26,"inhibition","no",938,0.0375881501510319
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.713360324,12.33619433,13,26,13,"processing speed","no",939,0.081062276845634
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.798904139,500.0315234,23,47,24,"shifting","no",940,0.0019998739143493
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.052973037,119.9402893,25,50,25,"updating","no",941,0.00833748197404089
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.635053069,35.08463365,16,33,17,"processing speed","no",942,0.0285025065382149
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.952447654,81.92047395,25,55,30,"inhibition","no",943,0.0122069606263551
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.079986665,5.731846321,26,52,26,"updating","no",944,0.174463854052796
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.583118186,7.765275935,26,52,26,"updating","no",945,0.128778424407658
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.984082759,1.799991203,22,41,19,"processing speed","no",946,0.555558270692282
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.439056593,283.701649,25,50,25,"inhibition","no",947,0.00352482970587175
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.477629798,81.31298976,18,36,18,"inhibition","no",948,0.0122981580550851
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.95531142,47.08365614,34,68,34,"inhibition","no",949,0.0212387924384328
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.545373353,0.786125447,28,58,30,"processing speed","no",950,1.2720616077449
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.881846765,7.198077246,28,58,30,"inhibition","no",951,0.138925988958469
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.069001493,0.105792692,28,58,30,"updating","no",952,9.45244875704647
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.697211501,14.56761458,51,98,47,"processing speed","no",953,0.0686454185418187
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.660133019,40.94288638,51,98,47,"inhibition","no",954,0.0244242672760972
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.725299581,2.246492787,50,142,92,"inhibition","no",955,0.445138308828231
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.719964756,4.462753769,76,159,83,"inhibition","no",956,0.224076893273024
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.23253807,87.03532932,20,40,20,"shifting","no",957,0.0114895871344765
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.186101401,24.37840956,20,40,20,"inhibition","no",958,0.0410199031868263
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.951703939,0.021328136,102,191,89,"updating","no",959,46.8864227047314
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.086529252,0.020907415,102,191,89,"inhibition","yes",960,47.8299206286382
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.478287975,0.021093753,102,191,89,"inhibition","no",961,47.4074006650215
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.229551665,0.022286053,102,191,89,"inhibition","no",962,44.871112888406
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.881308559,2.091865124,102,191,89,"processing speed","no",963,0.478042292749654
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.054149147,2.636910173,102,191,89,"processing speed","no",964,0.379231727435867
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.798267539,129.4842979,38,82,44,"inhibition","no",965,0.00772294414240323
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.197022683,3172.675548,8,18,10,"shifting","no",966,0.000315191384959103
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.74557633,0.091261336,30,60,30,"inhibition","no",967,10.9575428525394
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.742669142,0.800044762,30,60,30,"inhibition","yes",968,1.24993006328813
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.074477875,16.75562432,27,55,28,"shifting","no",969,0.0596814526813167
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.605145375,0.0330091,76,161,85,"shifting","yes",970,30.2946763165309
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.088810217,0.051894,48,96,48,"shifting","yes",971,19.2700504875323
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.069250782,327.1701156,24,48,24,"updating","no",972,0.00305651388167312
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.564563083,0.015166027,117,284,167,"updating","no",973,65.9368468749264
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.226097457,319.8680924,32,64,32,"shifting","no",974,0.00312628869136933
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.649055742,0.117978544,38,60,22,"updating","no",975,8.47611748793916
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.552056881,63.5042773,38,60,22,"inhibition","no",976,0.0157469707949893
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.533229491,0.658139613,24,48,24,"processing speed","no",977,1.51943444862967
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.830875318,288.6371271,24,48,24,"shifting","no",978,0.00346455776513305
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.703288595,0.549720713,36,72,36,"processing speed","no",979,1.81910555005774
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.086458919,42.15159749,36,72,36,"shifting","no",980,0.0237238932696973
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.908574722,3.359764444,25,50,25,"updating","no",981,0.297639913948682
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.239949848,0.234850148,36,72,36,"updating","no",982,4.25803436155382
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.216545231,0.177033651,36,72,36,"updating","no",983,5.64864360166192
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.907793836,2.177384007,36,72,36,"updating","no",984,0.459266714913462
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.15535252,129.2382561,20,48,28,"inhibition","yes",985,0.00773764696442697
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.560306834,6.594123123,20,48,28,"processing speed","no",986,0.151650186286641
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.911984242,0.039274288,75,114,39,"updating","no",987,25.4619510861661
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.783643824,10.43085685,75,114,39,"shifting","yes",988,0.0958694011796356
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.14133957,0.039239887,75,114,39,"updating","no",989,25.4842731835594
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.273347777,104.3131711,75,114,39,"shifting","yes",990,0.00958651711432824
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.171250876,0.044167971,60,120,60,"updating","no",991,22.6408408029429
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.736839742,0.049877866,60,120,60,"updating","no",992,20.0489732259195
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.442819235,0.106116834,60,120,60,"updating","no",993,9.42357552808257
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.681391968,0.04202159,58,116,58,"updating","no",994,23.7972908688129
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.070842533,0.044754162,58,116,58,"updating","no",995,22.3442905712322
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.103859267,0.090224434,58,116,58,"updating","no",996,11.0834721335021
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.697021084,0.072420892,30,65,35,"updating","no",997,13.8081701617263
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.204521084,37.43159349,30,65,35,"inhibition","no",998,0.0267154001944148
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.118401856,0.103674758,40,86,46,"updating","no",999,9.64554940171647
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.100858308,0.155664657,40,86,46,"updating","no",1000,6.42406580448123
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.94946079,0.134800117,40,86,46,"updating","no",1001,7.41839118730142
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.344094962,0.57541203,40,86,46,"processing speed","no",1002,1.73788511164774
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.53152693,2.79376689,40,86,46,"shifting","no",1003,0.357939670478377
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.099263753,72.1099392,40,86,46,"inhibition","no",1004,0.0138677138144085
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.758269252,20.03618024,40,86,46,"inhibition","no",1005,0.0499097127307535
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.770865089,1.650787688,40,86,46,"processing speed","no",1006,0.605771418862193
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.127548469,100.5364885,40,86,46,"processing speed","no",1007,0.00994663743402974
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.200197946,17.63067408,40,86,46,"processing speed","no",1008,0.0567193287938087
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.163742035,0.11546896,24,48,24,"updating","no",1009,8.66033607646592
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.977817805,0.942942085,24,48,24,"processing speed","no",1010,1.06051051905272
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.443712762,41.43812413,26,52,26,"shifting","no",1011,0.0241323665343246
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.815994973,0.041533488,40,105,65,"updating","no",1012,24.0769568883788
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.407144498,0.096154886,50,110,60,"updating","no",1013,10.3998875314563
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.168403368,21.61625197,14,26,12,"processing speed","no",1014,0.0462614888736421
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.635386553,409.3625842,21,42,21,"inhibition","yes",1015,0.00244282217915508
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.94790657,284.0106467,21,42,21,"inhibition","no",1016,0.00352099476417269
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.420059489,1053.33249,8,16,8,"inhibition","yes",1017,0.00094936784870274
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.872157372,0.589308901,46,93,47,"processing speed","no",1018,1.69690292867306
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.526387785,0.048758833,46,93,47,"updating","no",1019,20.5091044734397
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.298469665,34.56905912,25,72,47,"inhibition","no",1020,0.0289276024704256
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.916446837,152.3982152,16,32,16,"processing speed","no",1021,0.00656175663663547
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.234335063,0.128867699,20,42,22,"inhibition","no",1022,7.75989645007939
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.781622309,0.18705266,40,80,40,"inhibition","yes",1023,5.34608810160732
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.146777427,197.5051962,16,36,20,"inhibition","no",1024,0.00506315792819632
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.354455093,1.261001747,24,48,24,"inhibition","no",1025,0.793020312921105
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.032861046,91.76578651,220,255,35,"inhibition","yes",1026,0.0108973075699736
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.707109638,37.29520218,220,255,35,"inhibition","yes",1027,0.0268131003868445
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.383229906,1301.861476,220,255,35,"shifting","yes",1028,0.000768130879079795
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.882688499,69.96148165,41,85,44,"inhibition","yes",1029,0.0142935795013998
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.671435612,0.356306412,40,80,40,"processing speed","no",1030,2.80657312448253
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.659488503,0.055813675,40,80,40,"updating","no",1031,17.9167560638141
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.962247685,53.65746769,25,52,27,"inhibition","yes",1032,0.0186367348861372
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.200703108,402.3206891,25,52,27,"inhibition","yes",1033,0.00248557935769354
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.117325831,154.0121844,13,24,11,"inhibition","yes",1034,0.00649299277129141
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.648349689,61.17412886,22,44,22,"inhibition","no",1035,0.016346779572269
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.090397356,50.1759762,30,62,32,"inhibition","no",1036,0.0199298563921114
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.332703555,51.35154408,30,62,32,"inhibition","no",1037,0.019473611123399
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.289924627,9.184435323,30,62,32,"inhibition","no",1038,0.108879856499807
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.096099384,0.081415218,30,62,32,"shifting","yes",1039,12.2827159905167
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.313863832,0.101109322,30,62,32,"updating","no",1040,9.89028489381029
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.07419492,0.118683865,30,62,32,"updating","no",1041,8.42574515078355
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.589514908,36.1922158,37,77,40,"inhibition","no",1042,0.0276302508121097
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.256531422,111.2217394,16,36,20,"inhibition","no",1043,0.00899104802167839
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.90292151,0.150245611,13,25,12,"shifting","no",1044,6.655768467007
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.677148403,4.130110328,12,24,12,"processing speed","no",1045,0.242124282545316
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.503664918,10.50127512,12,24,12,"shifting","no",1046,0.0952265309281793
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.074765743,0.156129197,12,24,12,"inhibition","yes",1047,6.40495191940301
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.645630505,5.45311542,12,24,12,"processing speed","no",1048,0.183381410987996
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.410346834,3.496844311,12,24,12,"shifting","no",1049,0.285972125454458
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.722956892,0.158283789,12,24,12,"inhibition","yes",1050,6.31776637593633
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.810958011,0.868333705,12,24,12,"inhibition","no",1051,1.15163098500248
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.712784254,0.372224745,74,148,74,"updating","no",1052,2.68654895579282
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.888461814,0.061603273,34,68,34,"updating","no",1053,16.232903728995
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.857938274,4.633345224,12,24,12,"inhibition","no",1054,0.215826784246543
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.336902696,29.6093009,8,16,8,"inhibition","yes",1055,0.0337731715914981
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.578211421,2.908593149,40,80,40,"inhibition","no",1056,0.34380882742016
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.861671457,1.286111672,40,80,40,"inhibition","no",1057,0.777537457882584
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.482153295,0.050291769,40,80,40,"inhibition","no",1058,19.8839694821632
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.127317507,216.7078587,40,80,40,"updating","no",1059,0.00461450731874174
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.480099144,2.087414603,40,80,40,"inhibition","no",1060,0.479061513971789
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.210863031,37.84050723,40,80,40,"inhibition","no",1061,0.0264267070713893
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.094107392,0.054442331,36,72,36,"inhibition","no",1062,18.3680599568744
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.282642089,0.054500436,36,72,36,"inhibition","no",1063,18.3484770653945
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.381638848,132.4901817,37,74,37,"inhibition","no",1064,0.00754772910089533
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.507212487,168.598305,37,74,37,"inhibition","no",1065,0.0059312577312091
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.965537194,40.34211376,35,75,40,"inhibition","no",1066,0.0247879921698976
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.047733923,0.626922188,36,72,36,"processing speed","no",1067,1.59509428624657
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.457788669,19.88821444,36,72,36,"inhibition","no",1068,0.0502810346809595
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.719274472,967.1895124,20,40,20,"processing speed","no",1069,0.00103392353533547
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.234575562,163.7120196,20,40,20,"shifting","no",1070,0.00610828699348597
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.13888841,2.740899431,25,53,28,"inhibition","no",1071,0.364843740229884
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.901809158,1.703126774,12,24,12,"processing speed","no",1072,0.587155351713119
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.296841196,0.244873761,12,24,12,"updating","no",1073,4.08373684430812
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.009812095,1.358896433,12,24,12,"updating","no",1074,0.735891253899553
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.015242851,2.185276675,12,24,12,"shifting","yes",1075,0.457607959413194
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.968409849,2362.303012,12,24,12,"shifting","no",1076,0.000423315719837892
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.086727064,0.052408269,71,142,71,"updating","yes",1077,19.0809583884558
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.667927231,1.18630987,33,69,36,"inhibition","yes",1078,0.842950080150644
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.36488403,0.065148274,33,69,36,"inhibition","no",1079,15.349600819816
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.051498562,0.087102282,33,69,36,"updating","no",1080,11.4807554640187
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.367427248,0.081921777,33,69,36,"updating","no",1081,12.2067664621093
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.828010678,0.736060729,33,69,36,"updating","no",1082,1.35858355241772
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.048346892,0.603581482,33,69,36,"processing speed","no",1083,1.65677713750668
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.840626657,0.130528683,33,69,36,"inhibition","no",1084,7.66115138080417
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.774276689,0.065686763,27,60,33,"inhibition","no",1085,15.2237673821741
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.187543276,139.0585968,27,60,33,"processing speed","no",1086,0.00719121307860055
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.62743111,0.070040195,27,60,33,"updating","no",1087,14.2775159321016
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.965005481,0.136763261,14,38,24,"shifting","yes",1088,7.31190520530218
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.402630344,3.568298724,14,38,24,"processing speed","no",1089,0.280245595267601
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.771525063,16.82952884,14,38,24,"shifting","no",1090,0.0594193699364432
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.51351485,1.992087804,24,48,24,"updating","no",1091,0.501985905436526
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.349462366,1.794118781,36,72,36,"updating","no",1092,0.557376696899981
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.927363043,0.737238434,30,60,30,"processing speed","no",1093,1.35641327673918
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.63188863,5.135434959,30,60,30,"inhibition","yes",1094,0.194725472717257
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.351366795,140.3814471,30,60,30,"inhibition","yes",1095,0.0071234484375108
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.249264421,87.54924111,12,25,13,"inhibition","no",1096,0.0114221435539751
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.190296251,190.477386,8,16,8,"inhibition","no",1097,0.00524996704858182
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.542011207,1.703069383,20,40,20,"processing speed","no",1098,0.587175138007868
+"psymetadata::maldonado2020::maldonado2020","psymetadata",7.367085986,3.578457085,20,40,20,"inhibition","no",1099,0.27945004683492
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.39018125,1.200104031,20,40,20,"processing speed","no",1100,0.833261095845782
+"psymetadata::maldonado2020::maldonado2020","psymetadata",6.81192053,4.899364063,20,40,20,"inhibition","no",1101,0.204108122430011
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.04524004,0.041587807,46,95,49,"updating","yes",1102,24.0455093003582
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.623935558,0.06279075,47,101,54,"updating","no",1103,15.925912654332
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.6547191,0.098187484,47,101,54,"updating","no",1104,10.1845974584704
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.257985409,0.613780409,47,101,54,"processing speed","no",1105,1.62924717918131
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.042197971,173.368614,47,101,54,"processing speed","no",1106,0.00576805672565393
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.560299147,368.131099,47,101,54,"processing speed","no",1107,0.00271642358582696
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.554281246,373.1407607,47,101,54,"processing speed","no",1108,0.00267995380114473
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.935219172,2.69638578,47,101,54,"processing speed","no",1109,0.370866812685832
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.828361237,7.693858576,47,101,54,"processing speed","no",1110,0.129973795348848
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.913218029,1.97355619,47,101,54,"updating","no",1111,0.506699533090061
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.930060492,0.618534103,47,101,54,"updating","yes",1112,1.61672573128923
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.237807801,0.954729943,47,101,54,"updating","no",1113,1.04741660962026
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.802922389,0.096523244,21,40,19,"inhibition","no",1114,10.3601988345937
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.015167904,575.3396982,21,40,19,"processing speed","no",1115,0.00173810359884532
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.697925948,64.6224027,27,54,27,"processing speed","no",1116,0.0154745097399481
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.114739299,0.053606874,40,80,40,"updating","no",1117,18.6543240704541
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.045754681,0.077759085,40,80,40,"updating","no",1118,12.8602336305783
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.184511289,1.865335647,8,16,8,"processing speed","no",1119,0.536096547347009
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.363951855,6145.781347,23,48,25,"shifting","no",1120,0.000162713240764438
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.593268386,1.560496079,20,47,27,"updating","no",1121,0.640821860084917
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.304406955,840.0773406,24,48,24,"processing speed","no",1122,0.00119036659087338
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.974665677,23.41431628,24,48,24,"inhibition","no",1123,0.0427089131299631
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.930723156,45.86470399,122,259,137,"inhibition","no",1124,0.0218032585627944
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.215185666,0.06657369,32,59,27,"inhibition","yes",1125,15.0209489664761
+"psymetadata::maldonado2020::maldonado2020","psymetadata",3.053076495,0.362475149,35,62,27,"processing speed","no",1126,2.7588098184353
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.042351398,0.511296538,35,62,27,"inhibition","yes",1127,1.95581218662584
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.781145817,45.42975725,32,64,32,"inhibition","yes",1128,0.0220120040372877
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.246330092,86.38604835,12,24,12,"processing speed","no",1129,0.0115759433276589
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.280370202,1.214865211,16,32,16,"processing speed","no",1130,0.823136584162175
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.176231197,1167.473219,16,32,16,"shifting","no",1131,0.000856550697459725
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.773600265,1.445589383,16,32,16,"processing speed","no",1132,0.691759369403172
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.866478578,1193.418553,16,32,16,"shifting","no",1133,0.000837928987685178
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.297162388,1.275441441,16,32,16,"processing speed","no",1134,0.784042267919378
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.381267471,647.9949244,16,32,16,"shifting","no",1135,0.00154322196416266
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.58041113,0.174398683,24,48,24,"updating","no",1136,5.73398825494571
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.039812646,0.204078205,24,48,24,"updating","no",1137,4.90008229933226
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.987927079,3.840452626,24,48,24,"inhibition","no",1138,0.260385974619232
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.205017392,127.2995504,56,107,51,"inhibition","no",1139,0.00785548728850813
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.537205722,94.41201932,56,107,51,"inhibition","yes",1140,0.0105918717468652
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.20058399,0.149782848,56,107,51,"inhibition","no",1141,6.67633185877197
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.164327015,113.5416458,56,107,51,"inhibition","no",1142,0.00880734106815281
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.372969735,13.81076539,56,107,51,"processing speed","no",1143,0.072407283141894
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.705020844,0.479460164,64,133,69,"updating","no",1144,2.08567900961215
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.158383479,0.453029175,64,133,69,"updating","no",1145,2.2073633557927
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.187812025,0.096432129,64,133,69,"updating","no",1146,10.3699877869543
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.883679879,0.357831344,64,133,69,"processing speed","no",1147,2.79461264857782
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-2.015651514,89.77239489,32,66,34,"shifting","yes",1148,0.0111392817494211
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.440463298,0.061466997,49,84,35,"updating","no",1149,16.2688930451572
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.100748046,0.065177723,49,84,35,"updating","no",1150,15.3426654686909
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.907770594,0.053724142,49,84,35,"updating","no",1151,18.6136057789438
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.676893143,977.6054094,49,84,35,"inhibition","no",1152,0.00102290759685316
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.536892615,2.184446434,15,31,16,"shifting","no",1153,0.457781882144335
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.616866482,2.942869264,15,31,16,"shifting","no",1154,0.339804425644373
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.802774408,0.051474879,39,80,41,"inhibition","yes",1155,19.4269519312517
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.208482083,0.254849062,39,80,41,"shifting","yes",1156,3.92389123252884
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.760591191,0.407798436,40,80,40,"processing speed","no",1157,2.4521918470526
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.674156209,735.5042406,37,69,32,"updating","no",1158,0.00135961146761606
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.812691001,109.2649825,24,48,24,"inhibition","yes",1159,0.00915206296765755
+"psymetadata::maldonado2020::maldonado2020","psymetadata",4.569588295,25.7131405,8,16,8,"inhibition","no",1160,0.0388906209259036
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.223981575,12.82747349,18,35,17,"processing speed","no",1161,0.0779576742668443
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.175667304,8.196862758,18,35,17,"inhibition","no",1162,0.121997894746257
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.149602242,23.76587036,18,35,17,"inhibition","no",1163,0.0420771461281336
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.650026558,6276.365075,27,57,30,"shifting","yes",1164,0.000159327889319759
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.177563839,0.118796843,27,58,31,"inhibition","no",1165,8.41773211094507
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.964440145,229.9541008,36,72,36,"inhibition","yes",1166,0.00434869391987812
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.155175672,0.473254217,20,41,21,"inhibition","yes",1167,2.11302924322384
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.120229689,0.146618859,20,41,21,"updating","no",1168,6.82040500669835
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.028961754,0.127491109,20,41,21,"updating","no",1169,7.84368422114832
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.968028535,0.062045418,70,140,70,"updating","no",1170,16.1172256104391
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.977815098,0.066029235,51,104,53,"updating","no",1171,15.1448066905515
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.647231647,0.370330477,72,144,72,"inhibition","no",1172,2.70029085399849
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.873534472,0.272091121,72,144,72,"updating","no",1173,3.67523936953459
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.39523292,1.477486899,24,48,24,"processing speed","no",1174,0.676824952340914
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.848123781,0.918354441,24,48,24,"processing speed","no",1175,1.08890419140468
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.559935502,0.123193054,16,31,15,"shifting","yes",1176,8.11734077150162
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.844108599,46.84331363,14,28,14,"inhibition","no",1177,0.0213477639071111
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.297145556,0.102975717,20,39,19,"inhibition","yes",1178,9.71102730947724
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.42551551,0.106851025,20,39,19,"updating","no",1179,9.35882458778472
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.845357127,0.170928304,13,23,10,"inhibition","yes",1180,5.8504061445552
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.959897066,0.189003748,13,23,10,"updating","no",1181,5.29090036881173
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.458209848,1.572593319,7,36,29,"updating","no",1182,0.635892311074991
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.633978171,0.061898686,81,121,40,"updating","no",1183,16.1554317970498
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.814874944,1.183976433,81,121,40,"updating","no",1184,0.844611406213691
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.662480047,0.869522792,81,121,40,"processing speed","no",1185,1.15005611031758
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.824195443,0.288225931,81,121,40,"shifting","yes",1186,3.46950045934625
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.350688222,3.352851428,81,121,40,"shifting","no",1187,0.298253597415292
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.974192695,1.237868322,81,121,40,"inhibition","no",1188,0.807840367369866
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.019234474,0.664124523,81,121,40,"updating","no",1189,1.50574171765677
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.404039899,0.36566302,81,121,40,"updating","no",1190,2.73475835757195
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.42921778,0.074404294,81,121,40,"shifting","no",1191,13.4400845198531
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.02264352,273.1288147,81,121,40,"inhibition","no",1192,0.00366127609457238
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.362461737,0.072826272,48,72,24,"updating","no",1193,13.7313083937621
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.315717227,0.074674078,48,72,24,"updating","no",1194,13.3915279141444
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.130752726,1.693326343,48,72,24,"processing speed","no",1195,0.590553618996052
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.653893979,0.552427182,48,72,24,"shifting","yes",1196,1.81019332969752
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.366020972,1.111873174,48,72,24,"inhibition","yes",1197,0.899383152129183
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.279512673,1.32951847,48,72,24,"shifting","yes",1198,0.752152017865536
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.326477059,1.010195229,48,72,24,"updating","no",1199,0.989907664669836
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.654123086,0.803317364,48,72,24,"updating","no",1200,1.24483802394193
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.529309253,0.117459394,48,72,24,"updating","no",1201,8.5135804463626
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.869223548,226.6400108,48,72,24,"inhibition","no",1202,0.00441228358783682
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.704153484,0.022452441,323,649,326,"processing speed","no",1203,44.5385871407033
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.216169014,0.002912355,323,649,326,"processing speed","no",1204,343.364734038261
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.553272589,0.003706952,323,649,326,"processing speed","no",1205,269.763406701786
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.771344339,0.139723749,323,649,326,"processing speed","no",1206,7.15697944806791
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.346920709,0.015674634,323,649,326,"updating","no",1207,63.7973428917064
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.012624191,0.00682711,323,649,326,"processing speed","no",1208,146.474862716435
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.771147044,0.00860182,323,649,326,"shifting","no",1209,116.254467077897
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.599902835,0.05011185,323,649,326,"inhibition","yes",1210,19.9553598599932
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.793488556,0.016600045,323,649,326,"shifting","yes",1211,60.2408005520467
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.871471953,0.007530702,323,649,326,"updating","no",1212,132.789745232251
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.981969703,0.007004917,323,649,326,"updating","no",1213,142.756866355447
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.168751594,0.454623232,323,649,326,"processing speed","no",1214,2.19962362152227
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.462080273,2.389081068,323,649,326,"shifting","no",1215,0.418570978354092
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.950991425,0.330857006,323,649,326,"processing speed","no",1216,3.0224537545383
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.221596947,0.086228576,323,649,326,"processing speed","no",1217,11.5970835468743
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.224129447,0.077431246,323,649,326,"processing speed","no",1218,12.9146830466863
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.175016243,0.072040021,323,649,326,"processing speed","no",1219,13.8811730773926
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.467562493,1.727662477,323,649,326,"processing speed","no",1220,0.578816761556604
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.105136101,16.83417376,323,649,326,"processing speed","no",1221,0.0594029748211415
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.62372229,57.10485425,323,649,326,"processing speed","no",1222,0.0175116461312043
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.355051908,0.059788125,323,649,326,"processing speed","no",1223,16.7257293986055
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.109654503,0.170494684,323,649,326,"processing speed","no",1224,5.86528551236237
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.74103613,0.070244517,323,649,326,"updating","no",1225,14.2359865610579
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.245818631,0.110933718,323,649,326,"updating","no",1226,9.01439181908606
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.792900565,0.079249419,323,649,326,"inhibition","yes",1227,12.6183890382843
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.775493002,0.031700478,323,649,326,"updating","yes",1228,31.5452656581393
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.738514782,0.061379964,323,649,326,"updating","no",1229,16.2919613312253
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.657980461,0.128134077,323,649,326,"processing speed","no",1230,7.80432515231682
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.486418387,1856.813856,32,64,32,"inhibition","no",1231,0.000538556946227355
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-1.57188945,3.470863917,30,60,30,"inhibition","no",1232,0.288112707358558
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.760598154,3.818517919,30,60,30,"inhibition","no",1233,0.261881709399411
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.636228965,0.158830067,35,49,14,"updating","no",1234,6.29603713508476
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.424840313,0.101877109,35,49,14,"shifting","yes",1235,9.81574771620188
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.862700869,0.195497688,35,49,14,"processing speed","no",1236,5.11515000627527
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.315374519,1.640106953,35,49,14,"updating","no",1237,0.609716334761493
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.166882789,5.353249837,13,35,22,"processing speed","no",1238,0.186802415438994
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.445186975,8.229364958,13,35,22,"inhibition","no",1239,0.121516059271119
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.32385872,5.685321324,64,128,64,"inhibition","no",1240,0.175891553530775
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.99713087,0.049443955,64,128,64,"updating","no",1241,20.2249193051001
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.836190404,68.5062937,18,36,18,"inhibition","no",1242,0.0145971989723916
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.240141178,0.569816018,26,48,22,"inhibition","yes",1243,1.75495242044951
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.195488314,0.907829993,26,48,22,"inhibition","yes",1244,1.10152782757862
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.269083525,0.161454282,34,65,31,"updating","no",1245,6.19370380031172
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0,0.067895717,34,65,31,"shifting","yes",1246,14.7284695439625
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.379488261,0.11111079,34,65,31,"updating","no",1247,9.00002601007517
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.481387564,2.246659606,35,72,37,"inhibition","yes",1248,0.445105256412395
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.331438441,0.036981011,227,282,55,"updating","no",1249,27.0409048579013
+"psymetadata::maldonado2020::maldonado2020","psymetadata",2.779806198,0.065696279,227,282,55,"processing speed","no",1250,15.2215622440352
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.311630879,0.078416363,227,282,55,"updating","no",1251,12.752440456847
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.541149939,0.181187555,227,282,55,"updating","no",1252,5.51914285724536
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.445324781,0.037414405,227,282,55,"updating","yes",1253,26.7276734722896
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.553087055,76.80543567,24,66,42,"inhibition","yes",1254,0.0130199118236445
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.677090907,0.156426549,24,66,42,"updating","no",1255,6.39277671464836
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.822690072,18.87476565,24,66,42,"inhibition","no",1256,0.0529807902542091
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.47780134,1.980611723,12,35,23,"processing speed","no",1257,0.504894517379366
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.917336463,34.93119566,12,35,23,"shifting","no",1258,0.028627706011939
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.398420192,0.841932085,35,93,58,"processing speed","no",1259,1.18774425849325
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.486366682,8.081992807,35,93,58,"shifting","no",1260,0.1237318596886
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.081356569,118.6809475,45,78,33,"processing speed","no",1261,0.00842595227848177
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.107044796,108.3004117,45,78,33,"processing speed","no",1262,0.00923357524041619
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.300574465,17.55039092,45,78,33,"processing speed","no",1263,0.0569787877978504
+"psymetadata::maldonado2020::maldonado2020","psymetadata",1.141716361,0.16449361,45,78,33,"processing speed","no",1264,6.07926350452154
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.455859836,0.116421086,45,78,33,"updating","no",1265,8.58950929215692
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.149680499,0.167658207,45,78,33,"updating","no",1266,5.96451565296771
+"psymetadata::maldonado2020::maldonado2020","psymetadata",-0.270142907,119.9613915,45,78,33,"shifting","yes",1267,0.00833601534206945
+"psymetadata::maldonado2020::maldonado2020","psymetadata",0.774886383,132.0967603,45,78,33,"shifting","yes",1268,0.00757020836641972

@@ -1,0 +1,23 @@
+Package: chat2
+Type: Package
+Title: Meta-Analysis Quality and Overfitting Assessment
+Version: 0.1.0
+Authors@R: person("Mahmood", "Ahmad", email = "mahmood.ahmad@ahmadiyya.org", role = c("aut", "cre"))
+Description: Tools for assessing overfitting and data quality in meta-analysis
+    results, including cross-validation, permutation tests, and 
+    risk categorization based on k/p ratios and heterogeneity.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1.0)
+Imports:
+    ggplot2,
+    dplyr,
+    scales,
+    stats,
+    utils
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+RoxygenNote: 7.3.2
