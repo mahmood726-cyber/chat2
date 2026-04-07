@@ -1,6 +1,6 @@
 Mahmood Ahmad
 Tahir Heart Institute
-author@example.com
+mahmood.ahmad2@nhs.net
 
 CBAMM-Chat2: Reproducibility Capsule for Automated Meta-Overfitting Validation
 
