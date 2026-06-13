@@ -63,8 +63,14 @@ calculate_overfitting_stats <- function(data) {
 #' @param r2_gap_threshold R2 gap threshold (default 0.2)
 #' @export
 identify_high_risk <- function(data, kp_threshold = 10, r2_gap_threshold = 0.2) {
-  high_risk <- data[data$kp_ratio < kp_threshold | 
-                    (is.finite(data$r2_apparent) && data$r2_apparent - data$r2_cv > r2_gap_threshold), ]
-  
+  kp_flag <- data$kp_ratio < kp_threshold
+  r2_flag <- is.finite(data$r2_apparent) & is.finite(data$r2_cv) &
+             (data$r2_apparent - data$r2_cv > r2_gap_threshold)
+
+  # Treat NA flags as FALSE so they do not produce all-NA rows in the subset.
+  select <- (kp_flag %in% TRUE) | (r2_flag %in% TRUE)
+
+  high_risk <- data[select, ]
+
   return(high_risk)
 }
